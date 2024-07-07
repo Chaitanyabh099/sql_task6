@@ -1,0 +1,1430 @@
+customer_id,customer_segment,payment_method,shipping_mode,purchase_amount,delivery_time,items_purchased
+cst453,Consumer,Credit Card,Same Day,213.59,2.02,35.57
+cst86,Small Business,PayPal,Same Day,1225.58,1.75,9.77
+cst691,Consumer,PayPal,Standard,203.11,5.33,32.59
+cst568,Corporate,Debit Card,Standard,1347.11,3.19,36.85
+cst914,Corporate,Credit Card,Standard,1762.11,3.93,15.05
+cst982,Small Business,Debit Card,Express,242.98,9.7,23.24
+cst666,Small Business,Credit Card,Same Day,305.75,5.48,8.02
+cst672,Small Business,PayPal,Standard,1294.85,4.51,24.03
+cst1024,Small Business,PayPal,Same Day,626.17,4.88,42.11
+cst638,Consumer,Credit Card,Standard,301.71,7.8,31.83
+cst25,Consumer,Credit Card,Same Day,1772.7,6.41,42.16
+cst463,Consumer,PayPal,Express,829.25,6.29,5.58
+cst968,Corporate,Credit Card,Same Day,975.41,9.77,35.54
+cst357,Small Business,Credit Card,Express,500.65,9.32,42.43
+cst1123,Corporate,PayPal,Standard,346.05,1.08,30.11
+cst1002,Corporate,Debit Card,Same Day,1742.93,3.37,12.68
+cst513,Corporate,PayPal,Standard,587.63,8.05,30.13
+cst1171,Small Business,Debit Card,Standard,85.96,3.97,41.91
+cst626,Small Business,Debit Card,Standard,1481.28,3.44,29.11
+cst120,Corporate,Credit Card,Same Day,1400.62,8.29,30.21
+cst400,Corporate,Credit Card,Express,352.13,7.76,40.66
+cst1059,Consumer,PayPal,Express,1740.31,7.75,3.71
+cst315,Corporate,Credit Card,Express,1691.08,3.33,2.17
+cst711,Corporate,PayPal,Same Day,1325.66,8.37,22.37
+cst200,Small Business,Debit Card,Express,139.78,4.51,33.24
+cst485,Small Business,Credit Card,Same Day,1072.78,5.43,44.19
+cst121,Corporate,Credit Card,Standard,1198.62,1.64,24.81
+cst533,Small Business,Credit Card,Standard,845.75,3.27,14.32
+cst592,Consumer,Credit Card,Same Day,1119.59,1.53,19.56
+cst50,Corporate,Credit Card,Express,721.48,8.48,2.54
+cst692,Corporate,PayPal,Same Day,1380.35,5.21,33.13
+cst187,Corporate,PayPal,Same Day,1172.17,3.3,10.08
+cst415,Small Business,Debit Card,Same Day,306.3,4.97,45.09
+cst3,Corporate,Debit Card,Standard,214.65,6.36,27.97
+cst919,Consumer,Debit Card,Same Day,1588.2,8.39,44.41
+cst188,Small Business,PayPal,Express,931.09,9.65,18.19
+cst46,Corporate,PayPal,Standard,1331.27,8.72,16.91
+cst823,Corporate,PayPal,Express,1687.05,9.55,11.85
+cst382,Small Business,Debit Card,Express,644.9,8.6,21.17
+cst108,Consumer,Debit Card,Same Day,488.23,6.79,5.3
+cst335,Corporate,PayPal,Same Day,1243.72,1.22,18.27
+cst906,Consumer,PayPal,Standard,751.72,1.61,48.32
+cst660,Consumer,Debit Card,Same Day,1171.26,5.84,36.74
+cst1174,Consumer,Debit Card,Same Day,1505.07,2.19,39.55
+cst190,Consumer,Debit Card,Express,1995.73,5.93,5.14
+cst461,Small Business,Debit Card,Same Day,66.23,9.58,22.27
+cst689,Corporate,PayPal,Standard,886.88,3.1,22.12
+cst872,Small Business,Credit Card,Same Day,1760.97,4.16,47.93
+cst1001,Corporate,PayPal,Express,1174.56,5.09,16.29
+cst526,Small Business,PayPal,Standard,114.94,3.98,26.92
+cst1088,Consumer,Debit Card,Same Day,201.51,8.77,10.28
+cst759,Consumer,Credit Card,Express,163.54,1.72,35.09
+cst355,Consumer,Debit Card,Express,807.05,3.92,41.81
+cst863,Consumer,PayPal,Express,850.5,4.76,6.27
+cst819,Corporate,Credit Card,Same Day,658.44,3.39,20.34
+cst345,Small Business,PayPal,Express,25.31,3.55,13.37
+cst322,Corporate,Credit Card,Standard,547.52,2.44,39.68
+cst33,Corporate,PayPal,Same Day,1763.4,7.37,33.83
+cst708,Consumer,Debit Card,Same Day,108.55,9.19,11.73
+cst868,Small Business,PayPal,Express,533.7,3.77,17.88
+cst168,Small Business,Debit Card,Same Day,94.03,1.97,26.65
+cst663,Consumer,PayPal,Standard,265.39,8.16,18.41
+cst521,Small Business,Debit Card,Same Day,317.3,1.04,31.63
+cst226,Corporate,Debit Card,Standard,1846.68,7.6,6.81
+cst466,Corporate,PayPal,Same Day,1291.37,4.1,42.03
+cst376,Consumer,PayPal,Express,798.28,7.58,4.55
+cst63,Corporate,Debit Card,Standard,1927.02,5.68,47.91
+cst313,Corporate,Debit Card,Standard,1783.85,7.96,24.02
+cst228,Consumer,PayPal,Standard,1306.36,3.06,34.05
+cst808,Corporate,PayPal,Standard,64.68,1.93,1.67
+cst31,Consumer,Debit Card,Express,1876.83,1.42,5.44
+cst944,Small Business,Debit Card,Same Day,1361.84,6.92,27.98
+cst762,Small Business,PayPal,Same Day,47.55,4.21,33.19
+cst139,Small Business,Credit Card,Express,1796.97,6.13,18.27
+cst1027,Corporate,PayPal,Same Day,999.59,4.28,13.06
+cst158,Consumer,PayPal,Same Day,1629.77,2.17,49.87
+cst781,Corporate,Debit Card,Same Day,875.77,6.89,45.0
+cst20,Corporate,Debit Card,Express,1985.9,6.8,39.02
+cst905,Small Business,Credit Card,Same Day,1292.12,9.84,35.46
+cst1195,Corporate,Credit Card,Same Day,850.92,4.91,2.03
+cst422,Consumer,Credit Card,Standard,1705.0,5.6,1.84
+cst954,Corporate,Credit Card,Standard,1453.1,1.58,41.51
+cst365,Small Business,Debit Card,Same Day,479.27,1.66,37.3
+cst668,Small Business,Debit Card,Express,1143.8,2.76,18.04
+cst1118,Corporate,Credit Card,Same Day,1330.43,8.12,5.94
+cst741,Corporate,PayPal,Express,1689.45,5.03,44.17
+cst1020,Small Business,PayPal,Standard,1773.22,3.44,47.92
+cst931,Small Business,Debit Card,Express,261.06,7.56,46.81
+cst440,Small Business,Credit Card,Same Day,615.15,4.99,19.86
+cst207,Consumer,PayPal,Express,660.83,8.51,48.85
+cst403,Corporate,Credit Card,Standard,324.35,6.68,33.4
+cst1190,Consumer,PayPal,Standard,514.49,6.69,35.97
+cst877,Small Business,Credit Card,Express,1075.97,8.97,43.78
+cst851,Small Business,PayPal,Standard,455.65,3.98,49.17
+cst462,Corporate,Credit Card,Same Day,1625.91,6.41,38.67
+cst391,Small Business,PayPal,Same Day,1115.19,7.18,47.98
+cst307,Consumer,Debit Card,Same Day,611.06,6.31,10.06
+cst154,Corporate,PayPal,Standard,1781.12,8.91,41.79
+cst484,Small Business,PayPal,Express,1277.95,6.88,48.47
+cst191,Corporate,Debit Card,Express,616.88,4.15,13.21
+cst490,Consumer,Debit Card,Standard,833.48,5.46,1.1
+cst239,Consumer,Credit Card,Standard,1706.07,3.2,33.41
+cst950,Small Business,Credit Card,Express,107.31,7.71,22.64
+cst842,Small Business,Debit Card,Express,327.88,8.67,23.27
+cst670,Corporate,Debit Card,Express,1897.34,3.32,44.89
+cst928,Consumer,PayPal,Express,86.97,4.72,42.62
+cst430,Corporate,Credit Card,Express,1433.25,4.55,46.58
+cst754,Small Business,PayPal,Same Day,597.74,2.59,48.71
+cst1152,Corporate,Credit Card,Standard,1372.99,2.95,45.2
+cst247,Small Business,Credit Card,Express,1891.11,2.92,46.51
+cst1099,Consumer,Credit Card,Standard,630.24,8.97,11.01
+cst951,Small Business,Debit Card,Standard,1284.34,2.64,26.62
+cst396,Corporate,PayPal,Express,1491.92,5.94,13.63
+cst829,Small Business,Credit Card,Express,784.84,8.44,44.71
+cst607,Small Business,PayPal,Standard,1385.78,3.92,46.42
+cst593,Small Business,Credit Card,Same Day,1547.35,2.26,34.38
+cst1006,Consumer,PayPal,Same Day,1450.02,7.71,45.75
+cst857,Consumer,Credit Card,Standard,107.52,5.71,2.0
+cst580,Consumer,PayPal,Express,1687.08,1.46,40.88
+cst1128,Corporate,PayPal,Standard,1874.61,9.76,37.83
+cst730,Small Business,PayPal,Standard,1940.62,8.06,2.08
+cst165,Small Business,Debit Card,Express,1011.72,4.08,47.61
+cst532,Corporate,Credit Card,Express,842.96,5.61,46.44
+cst41,Small Business,PayPal,Standard,1050.1,1.19,38.28
+cst803,Small Business,Debit Card,Standard,998.92,6.34,36.29
+cst710,Corporate,Credit Card,Standard,1559.3,1.54,1.43
+cst769,Consumer,Debit Card,Same Day,1172.83,9.61,36.4
+cst110,Consumer,Credit Card,Express,1352.88,3.19,8.41
+cst54,Consumer,Debit Card,Same Day,1997.05,5.65,13.89
+cst64,Corporate,Credit Card,Express,945.34,8.24,37.39
+cst487,Small Business,Credit Card,Express,773.64,1.6,13.87
+cst377,Small Business,PayPal,Express,1425.62,7.49,15.0
+cst35,Small Business,Debit Card,Express,977.11,4.31,3.54
+cst353,Consumer,PayPal,Standard,327.37,1.51,6.71
+cst936,Consumer,Credit Card,Standard,704.38,3.43,1.69
+cst1180,Corporate,PayPal,Express,231.71,9.54,19.54
+cst609,Small Business,PayPal,Standard,370.15,9.64,19.57
+cst935,Consumer,Credit Card,Express,1288.39,2.67,29.52
+cst499,Small Business,Credit Card,Same Day,997.57,8.83,41.21
+cst717,Consumer,PayPal,Same Day,1128.65,8.7,36.67
+cst713,Small Business,Credit Card,Standard,243.58,5.48,4.05
+cst681,Small Business,Debit Card,Same Day,491.66,7.55,39.36
+cst1054,Small Business,PayPal,Same Day,946.15,9.58,46.79
+cst349,Corporate,Credit Card,Same Day,1705.06,8.63,6.43
+cst559,Small Business,Credit Card,Express,517.44,4.24,41.83
+cst15,Corporate,Credit Card,Express,1915.82,7.47,42.49
+cst325,Consumer,PayPal,Standard,1602.43,9.78,36.32
+cst1185,Small Business,Debit Card,Standard,1616.28,9.04,5.03
+cst17,Consumer,PayPal,Same Day,902.9,9.3,25.76
+cst127,Consumer,PayPal,Standard,1877.96,1.9,27.89
+cst1018,Consumer,Debit Card,Express,1646.17,1.2,2.1
+cst242,Small Business,Debit Card,Express,157.12,5.84,39.28
+cst979,Small Business,PayPal,Express,902.22,5.01,11.02
+cst55,Small Business,PayPal,Standard,1943.63,9.92,29.1
+cst520,Corporate,PayPal,Same Day,276.51,1.83,13.54
+cst566,Small Business,Credit Card,Express,614.64,8.21,17.64
+cst835,Consumer,PayPal,Express,236.55,8.49,10.33
+cst441,Consumer,Debit Card,Express,283.99,6.07,2.08
+cst369,Consumer,Debit Card,Same Day,756.67,6.53,28.16
+cst742,Corporate,PayPal,Same Day,1742.69,1.2,43.12
+cst320,Corporate,Credit Card,Standard,481.23,4.53,10.4
+cst245,Small Business,PayPal,Express,1949.97,2.5,3.69
+cst977,Corporate,PayPal,Same Day,1286.75,3.77,21.58
+cst718,Consumer,Debit Card,Same Day,841.0,4.85,41.72
+cst925,Corporate,Credit Card,Standard,1105.02,3.37,19.4
+cst197,Consumer,Debit Card,Standard,991.09,3.4,47.48
+cst1016,Corporate,Debit Card,Standard,566.76,4.6,24.81
+cst456,Corporate,Debit Card,Same Day,556.45,3.82,29.21
+cst1029,Corporate,Credit Card,Same Day,772.03,5.77,30.23
+cst219,Small Business,Credit Card,Standard,1099.17,2.12,4.53
+cst496,Corporate,PayPal,Standard,221.27,9.31,26.47
+cst362,Small Business,PayPal,Same Day,313.63,4.6,3.69
+cst784,Corporate,Debit Card,Standard,448.21,2.64,16.4
+cst1186,Small Business,Debit Card,Same Day,1403.18,8.93,5.63
+cst178,Consumer,Debit Card,Express,751.46,5.1,21.93
+cst331,Consumer,PayPal,Express,716.09,4.75,24.82
+cst312,Consumer,Credit Card,Express,973.42,5.28,31.12
+cst778,Small Business,Credit Card,Standard,1852.86,9.68,5.39
+cst690,Consumer,PayPal,Express,1525.98,4.47,37.26
+cst198,Consumer,Debit Card,Same Day,662.44,3.21,48.84
+cst791,Consumer,Debit Card,Same Day,1228.99,2.69,19.94
+cst146,Small Business,Debit Card,Same Day,1652.94,2.32,35.21
+cst978,Corporate,PayPal,Express,1306.73,9.8,32.57
+cst479,Corporate,Debit Card,Same Day,1736.47,9.13,31.13
+cst134,Corporate,PayPal,Express,1256.55,8.42,28.77
+cst1093,Consumer,Credit Card,Same Day,940.91,2.21,15.91
+cst209,Small Business,Credit Card,Same Day,1034.64,9.36,28.59
+cst408,Small Business,Credit Card,Express,1549.01,4.61,8.61
+cst991,Consumer,Credit Card,Standard,1890.77,3.88,6.26
+cst830,Consumer,PayPal,Same Day,1066.93,6.08,44.98
+cst971,Corporate,PayPal,Same Day,360.9,4.19,18.01
+cst124,Corporate,Debit Card,Express,1724.01,2.01,9.65
+cst529,Small Business,Credit Card,Same Day,854.42,4.28,15.61
+cst605,Consumer,Debit Card,Standard,295.9,4.67,12.59
+cst601,Corporate,PayPal,Same Day,1144.36,9.06,20.3
+cst792,Consumer,Credit Card,Express,1897.75,8.6,36.79
+cst301,Corporate,PayPal,Same Day,1030.67,5.8,34.92
+cst295,Consumer,Debit Card,Express,1383.85,6.24,17.88
+cst482,Consumer,PayPal,Same Day,54.84,9.35,37.59
+cst1004,Corporate,Debit Card,Express,1285.22,4.4,37.21
+cst1112,Corporate,Credit Card,Express,369.84,2.08,35.59
+cst348,Corporate,Debit Card,Standard,738.64,7.28,11.99
+cst1019,Consumer,Credit Card,Same Day,888.42,8.12,22.55
+cst1053,Corporate,PayPal,Same Day,363.18,2.94,2.79
+cst1110,Corporate,Credit Card,Standard,1397.43,4.08,29.99
+cst113,Consumer,PayPal,Express,1908.62,5.87,21.24
+cst202,Corporate,Credit Card,Same Day,1286.4,5.66,8.15
+cst257,Small Business,PayPal,Same Day,1351.62,1.29,20.82
+cst1145,Consumer,Credit Card,Standard,704.37,3.39,26.51
+cst953,Small Business,PayPal,Same Day,358.14,7.01,21.72
+cst21,Corporate,Credit Card,Express,716.66,7.15,12.82
+cst77,Consumer,Credit Card,Express,1039.81,1.98,11.15
+cst324,Corporate,Debit Card,Standard,1879.12,3.92,20.46
+cst1119,Consumer,Credit Card,Standard,1468.4,8.05,21.2
+cst646,Corporate,PayPal,Same Day,949.36,2.59,44.25
+cst767,Consumer,Debit Card,Standard,110.71,7.4,16.17
+cst945,Corporate,Credit Card,Express,1736.39,5.34,37.31
+cst878,Small Business,Debit Card,Express,1733.29,1.33,1.13
+cst1080,Corporate,Credit Card,Standard,201.69,2.43,21.72
+cst473,Corporate,PayPal,Express,272.55,8.56,10.18
+cst1136,Corporate,PayPal,Express,1090.28,3.06,17.98
+cst444,Consumer,Debit Card,Express,1410.45,7.97,2.37
+cst983,Small Business,PayPal,Standard,1167.84,6.08,29.05
+cst910,Small Business,PayPal,Standard,1301.93,1.91,11.58
+cst1079,Consumer,Debit Card,Express,295.88,9.38,8.01
+cst802,Corporate,Credit Card,Express,1617.79,3.99,40.73
+cst253,Consumer,Credit Card,Standard,351.02,2.98,33.8
+cst589,Small Business,Debit Card,Express,785.51,6.03,7.29
+cst1062,Small Business,Credit Card,Standard,1529.5,4.19,19.03
+cst373,Consumer,Debit Card,Same Day,1038.79,8.69,11.91
+cst85,Consumer,Debit Card,Same Day,829.55,3.21,27.9
+cst858,Consumer,Debit Card,Standard,980.67,6.29,46.6
+cst656,Small Business,Credit Card,Same Day,68.24,7.26,28.09
+cst486,Small Business,Debit Card,Same Day,1395.56,4.94,21.67
+cst648,Small Business,Credit Card,Express,1471.76,2.9,43.87
+cst1034,Small Business,Credit Card,Standard,438.61,2.6,25.11
+cst650,Small Business,Credit Card,Same Day,765.89,8.57,1.35
+cst491,Corporate,Credit Card,Same Day,1216.39,8.27,26.22
+cst109,Small Business,PayPal,Express,1244.56,7.91,34.26
+cst96,Small Business,Debit Card,Same Day,986.85,1.38,45.19
+cst1178,Consumer,Credit Card,Standard,971.43,1.27,44.67
+cst534,Consumer,Debit Card,Standard,1062.74,4.8,41.63
+cst433,Consumer,PayPal,Express,341.22,3.32,9.33
+cst970,Corporate,Debit Card,Express,1368.23,6.77,9.56
+cst655,Small Business,Credit Card,Same Day,436.64,3.0,17.9
+cst11,Consumer,Credit Card,Same Day,1589.72,9.09,47.58
+cst42,Corporate,Debit Card,Express,1287.77,5.39,22.93
+cst804,Small Business,PayPal,Express,910.4,3.19,37.71
+cst976,Corporate,Credit Card,Same Day,1470.54,8.58,30.91
+cst530,Corporate,Debit Card,Same Day,445.0,9.17,45.21
+cst771,Consumer,Credit Card,Standard,1651.0,3.4,6.19
+cst1176,Small Business,Credit Card,Standard,1138.77,1.11,45.43
+cst1026,Consumer,Debit Card,Standard,336.8,1.84,31.93
+cst195,Small Business,Credit Card,Same Day,560.51,6.42,22.74
+cst252,Corporate,Debit Card,Standard,530.79,3.41,22.66
+cst308,Corporate,Debit Card,Same Day,364.84,4.78,14.73
+cst36,Corporate,PayPal,Same Day,1419.33,4.33,25.95
+cst658,Small Business,Credit Card,Same Day,720.37,8.33,34.23
+cst869,Corporate,PayPal,Same Day,302.54,5.36,2.53
+cst838,Corporate,Debit Card,Standard,1303.12,9.59,14.75
+cst665,Corporate,Debit Card,Standard,297.33,4.84,21.82
+cst828,Corporate,Debit Card,Standard,1499.95,2.8,5.5
+cst185,Corporate,Credit Card,Standard,290.92,5.0,38.39
+cst1091,Consumer,Credit Card,Express,1397.82,5.71,47.27
+cst737,Corporate,Debit Card,Express,1199.95,7.96,36.86
+cst445,Small Business,Credit Card,Standard,332.48,4.3,8.28
+cst574,Small Business,Credit Card,Express,156.97,1.97,10.57
+cst924,Consumer,PayPal,Standard,550.26,4.82,46.2
+cst562,Small Business,Credit Card,Standard,1170.32,5.74,2.36
+cst932,Small Business,Debit Card,Same Day,216.3,7.93,39.5
+cst545,Consumer,PayPal,Same Day,986.37,8.13,1.68
+cst512,Consumer,Credit Card,Express,1988.05,3.25,1.38
+cst114,Small Business,Debit Card,Express,1022.13,6.37,25.75
+cst16,Small Business,Debit Card,Same Day,868.19,6.79,34.16
+cst864,Small Business,Credit Card,Same Day,1313.01,2.42,44.3
+cst555,Corporate,PayPal,Express,98.18,7.35,7.61
+cst667,Consumer,Debit Card,Express,655.67,8.07,33.28
+cst378,Corporate,PayPal,Standard,1496.95,3.49,46.77
+cst128,Corporate,Debit Card,Standard,1082.7,2.78,37.81
+cst1150,Corporate,PayPal,Same Day,1131.29,1.24,32.7
+cst388,Corporate,PayPal,Express,313.14,9.71,4.9
+cst990,Corporate,Credit Card,Same Day,515.75,4.08,36.9
+cst687,Consumer,Credit Card,Same Day,304.16,6.93,48.9
+cst644,Corporate,Credit Card,Express,193.23,4.71,34.78
+cst960,Consumer,PayPal,Standard,1724.36,5.85,27.18
+cst826,Small Business,Credit Card,Standard,1763.18,8.35,47.13
+cst123,Small Business,Debit Card,Standard,942.12,5.44,12.64
+cst782,Corporate,Debit Card,Same Day,721.52,1.61,3.45
+cst9,Small Business,Credit Card,Same Day,1687.96,2.65,32.91
+cst419,Consumer,PayPal,Same Day,828.02,7.03,12.92
+cst912,Consumer,PayPal,Same Day,299.12,6.64,23.58
+cst550,Small Business,PayPal,Same Day,430.25,3.18,41.53
+cst839,Consumer,Credit Card,Express,709.51,3.49,10.75
+cst1092,Corporate,Credit Card,Express,394.52,2.85,15.92
+cst1066,Consumer,Debit Card,Standard,1211.84,4.2,11.24
+cst789,Consumer,PayPal,Standard,341.73,2.89,41.23
+cst89,Corporate,Debit Card,Standard,1671.5,5.97,19.13
+cst1048,Small Business,PayPal,Express,1843.94,1.01,37.57
+cst933,Corporate,Debit Card,Standard,1934.06,7.26,43.34
+cst716,Corporate,PayPal,Same Day,486.5,1.63,1.82
+cst215,Consumer,Credit Card,Standard,1816.89,7.44,8.23
+cst693,Consumer,Credit Card,Same Day,1499.61,9.21,38.16
+cst236,Consumer,Debit Card,Same Day,1502.81,9.95,40.7
+cst181,Corporate,PayPal,Same Day,1086.11,2.88,33.96
+cst217,Small Business,Debit Card,Same Day,1177.42,7.26,7.82
+cst725,Corporate,Debit Card,Express,1501.74,2.19,38.95
+cst97,Corporate,Credit Card,Standard,962.56,4.87,37.94
+cst525,Corporate,PayPal,Standard,453.2,2.58,14.21
+cst395,Consumer,Debit Card,Standard,1956.84,9.43,24.85
+cst6,Consumer,PayPal,Standard,1223.59,8.85,8.34
+cst294,Consumer,Debit Card,Same Day,1006.14,1.28,44.4
+cst184,Consumer,Debit Card,Same Day,579.52,4.12,10.61
+cst272,Consumer,Credit Card,Express,1362.19,2.41,29.21
+cst336,Corporate,PayPal,Same Day,977.11,3.76,35.34
+cst1183,Corporate,Debit Card,Express,751.61,9.97,37.01
+cst220,Corporate,Debit Card,Express,1379.44,1.54,47.13
+cst142,Corporate,PayPal,Express,1206.99,8.96,19.23
+cst359,Small Business,Debit Card,Standard,387.36,5.19,34.95
+cst627,Corporate,Credit Card,Express,177.58,4.79,24.56
+cst793,Consumer,Debit Card,Express,781.46,4.66,29.45
+cst833,Consumer,Credit Card,Same Day,178.45,3.19,2.22
+cst774,Corporate,PayPal,Standard,1234.08,4.92,22.6
+cst135,Small Business,Credit Card,Same Day,108.89,7.14,11.03
+cst733,Small Business,Credit Card,Express,1912.86,4.26,44.1
+cst366,Small Business,PayPal,Standard,411.21,7.45,34.58
+cst898,Corporate,Credit Card,Standard,1782.39,1.79,21.28
+cst497,Corporate,Credit Card,Same Day,394.7,7.05,11.86
+cst1078,Small Business,PayPal,Same Day,1019.29,3.23,15.47
+cst420,Corporate,Debit Card,Standard,798.45,1.95,3.02
+cst93,Corporate,Debit Card,Standard,1698.0,6.28,35.7
+cst907,Corporate,PayPal,Same Day,441.42,9.12,49.79
+cst277,Consumer,PayPal,Same Day,383.6,1.91,10.5
+cst475,Small Business,Debit Card,Express,1228.17,5.91,33.69
+cst258,Small Business,Debit Card,Same Day,938.71,3.87,43.66
+cst999,Corporate,Debit Card,Express,1582.95,7.6,23.29
+cst75,Consumer,Credit Card,Same Day,1328.5,3.56,14.92
+cst748,Consumer,Debit Card,Same Day,1735.4,2.76,49.14
+cst1146,Corporate,PayPal,Same Day,396.84,6.16,47.44
+cst505,Small Business,Credit Card,Standard,48.12,5.79,24.42
+cst1100,Consumer,PayPal,Standard,1788.5,6.57,48.28
+cst537,Consumer,Credit Card,Express,420.39,6.78,43.63
+cst554,Small Business,Credit Card,Express,783.47,7.69,36.81
+cst210,Consumer,Debit Card,Standard,1398.35,2.22,41.83
+cst886,Consumer,Credit Card,Standard,628.5,9.76,22.05
+cst263,Consumer,PayPal,Same Day,1046.21,3.22,30.76
+cst302,Small Business,PayPal,Standard,498.09,7.73,32.85
+cst885,Small Business,PayPal,Express,1398.24,5.61,48.57
+cst69,Corporate,Credit Card,Express,1600.19,7.82,11.08
+cst468,Consumer,PayPal,Standard,882.64,6.52,15.53
+cst434,Corporate,PayPal,Same Day,1132.34,5.63,44.41
+cst620,Corporate,PayPal,Same Day,639.18,5.31,11.52
+cst659,Small Business,Debit Card,Express,1190.85,6.53,27.64
+cst276,Consumer,Debit Card,Same Day,378.99,4.43,7.61
+cst1155,Corporate,Debit Card,Same Day,1381.7,7.89,11.51
+cst1072,Corporate,PayPal,Express,1166.69,5.16,44.63
+cst1158,Consumer,Debit Card,Same Day,1404.5,8.01,24.01
+cst205,Consumer,PayPal,Express,1635.53,3.3,5.69
+cst1130,Small Business,PayPal,Standard,1906.75,1.73,37.48
+cst259,Consumer,PayPal,Standard,1737.09,3.31,47.36
+cst405,Consumer,PayPal,Same Day,26.33,3.87,43.19
+cst1067,Corporate,PayPal,Same Day,102.66,4.8,24.92
+cst314,Consumer,Credit Card,Standard,838.89,5.76,15.01
+cst929,Small Business,Debit Card,Standard,1469.71,5.5,6.54
+cst610,Corporate,PayPal,Standard,1644.05,4.08,25.7
+cst849,Consumer,Debit Card,Express,1240.65,9.98,17.24
+cst374,Consumer,PayPal,Same Day,824.95,7.08,23.2
+cst765,Corporate,PayPal,Same Day,404.7,3.17,35.49
+cst1198,Corporate,PayPal,Standard,874.02,1.2,42.44
+cst573,Small Business,Debit Card,Same Day,1828.24,9.4,8.5
+cst974,Consumer,Credit Card,Standard,1474.52,3.09,36.78
+cst340,Small Business,Debit Card,Express,49.85,6.4,44.4
+cst846,Small Business,Debit Card,Same Day,1383.64,1.72,18.39
+cst773,Consumer,Debit Card,Express,1854.62,2.92,19.13
+cst432,Small Business,PayPal,Express,138.31,3.04,33.84
+cst264,Corporate,Debit Card,Express,916.65,4.82,2.34
+cst14,Corporate,Debit Card,Same Day,694.65,5.76,29.67
+cst899,Consumer,Credit Card,Standard,1725.94,6.8,24.86
+cst356,Corporate,Credit Card,Same Day,1413.59,4.64,22.68
+cst780,Corporate,Debit Card,Express,1483.63,6.49,6.35
+cst749,Small Business,PayPal,Standard,320.13,1.53,8.18
+cst1184,Corporate,Credit Card,Standard,1174.57,2.2,48.28
+cst959,Corporate,Credit Card,Standard,213.57,7.87,5.96
+cst1021,Corporate,Debit Card,Express,878.49,8.22,40.44
+cst7,Small Business,Credit Card,Express,1079.08,9.15,9.63
+cst698,Corporate,Credit Card,Same Day,1516.64,1.09,44.42
+cst309,Small Business,PayPal,Express,1223.93,6.52,13.02
+cst957,Corporate,Debit Card,Express,1432.86,2.57,13.32
+cst632,Consumer,Debit Card,Express,1508.83,6.67,18.64
+cst298,Small Business,Credit Card,Express,1035.76,9.16,5.12
+cst47,Consumer,Credit Card,Standard,1263.92,3.51,38.79
+cst136,Small Business,PayPal,Express,91.75,7.25,12.84
+cst827,Consumer,Debit Card,Standard,1157.07,7.11,19.42
+cst870,Small Business,Debit Card,Standard,485.95,3.33,2.57
+cst12,Corporate,Credit Card,Express,832.12,4.29,4.51
+cst732,Corporate,Credit Card,Express,251.54,5.81,27.11
+cst171,Small Business,Credit Card,Same Day,1112.6,2.06,1.23
+cst199,Corporate,PayPal,Express,821.37,7.01,7.13
+cst772,Small Business,Credit Card,Standard,560.12,6.12,43.05
+cst471,Corporate,PayPal,Express,122.19,3.61,41.69
+cst913,Corporate,PayPal,Standard,912.97,6.21,21.79
+cst100,Corporate,Credit Card,Standard,1015.65,9.02,8.17
+cst269,Corporate,PayPal,Express,498.57,7.0,40.15
+cst1013,Consumer,Debit Card,Standard,1939.66,5.6,36.22
+cst680,Corporate,Credit Card,Express,966.92,4.2,38.14
+cst539,Consumer,PayPal,Same Day,1380.25,7.12,49.19
+cst5,Small Business,Debit Card,Standard,1781.92,6.68,41.08
+cst407,Corporate,PayPal,Same Day,1471.42,6.19,25.71
+cst412,Small Business,PayPal,Same Day,301.57,8.2,49.62
+cst125,Corporate,Credit Card,Express,327.0,3.65,22.55
+cst952,Consumer,PayPal,Standard,1778.73,9.76,32.19
+cst303,Corporate,PayPal,Same Day,268.66,4.16,6.02
+cst70,Consumer,Credit Card,Standard,930.24,2.18,40.6
+cst306,Corporate,Credit Card,Express,218.74,3.64,43.94
+cst524,Consumer,PayPal,Same Day,432.08,6.27,6.81
+cst998,Small Business,PayPal,Express,1260.15,4.8,19.28
+cst481,Small Business,Debit Card,Standard,867.43,5.8,46.44
+cst752,Corporate,Credit Card,Express,1857.04,5.33,26.75
+cst105,Small Business,Debit Card,Express,1992.05,1.21,37.58
+cst1045,Consumer,PayPal,Standard,984.76,9.17,5.9
+cst488,Small Business,PayPal,Standard,1303.11,5.67,39.68
+cst38,Consumer,Credit Card,Same Day,785.05,4.3,8.77
+cst796,Small Business,Debit Card,Express,210.31,5.59,29.29
+cst287,Small Business,PayPal,Express,481.04,5.11,23.66
+cst208,Corporate,Debit Card,Same Day,841.61,3.9,27.21
+cst662,Corporate,PayPal,Same Day,1986.19,1.34,5.58
+cst861,Consumer,PayPal,Standard,125.51,6.99,48.37
+cst840,Small Business,Debit Card,Same Day,714.6,4.89,43.88
+cst1161,Consumer,PayPal,Same Day,624.89,4.33,22.25
+cst1,Corporate,Debit Card,Express,401.67,3.33,6.29
+cst101,Consumer,Credit Card,Standard,535.78,7.11,34.49
+cst62,Small Business,Debit Card,Express,223.89,1.76,43.63
+cst557,Corporate,Credit Card,Standard,1818.01,6.02,38.93
+cst641,Corporate,PayPal,Same Day,793.59,5.34,29.84
+cst457,Small Business,Credit Card,Same Day,1588.91,7.1,49.89
+cst600,Small Business,PayPal,Standard,1514.89,5.29,3.48
+cst1076,Small Business,Debit Card,Same Day,1142.5,9.76,42.22
+cst256,Corporate,Credit Card,Same Day,1335.49,1.49,19.57
+cst876,Corporate,Debit Card,Express,1575.22,3.76,6.33
+cst206,Consumer,Credit Card,Express,1601.17,5.18,44.73
+cst633,Corporate,Credit Card,Express,108.33,1.62,1.93
+cst546,Corporate,Credit Card,Standard,1674.46,4.71,48.75
+cst818,Small Business,PayPal,Express,368.67,3.09,33.18
+cst104,Small Business,PayPal,Express,402.78,8.41,2.92
+cst458,Consumer,Credit Card,Same Day,424.56,4.24,10.34
+cst141,Small Business,Debit Card,Same Day,896.67,1.69,6.3
+cst4,Consumer,Debit Card,Standard,807.79,4.27,49.1
+cst1181,Corporate,PayPal,Express,911.02,7.04,46.62
+cst955,Small Business,Credit Card,Same Day,150.49,9.87,46.63
+cst909,Corporate,PayPal,Standard,664.94,5.24,1.76
+cst916,Small Business,PayPal,Express,382.39,9.09,7.36
+cst1113,Consumer,Credit Card,Same Day,1438.68,1.91,49.1
+cst297,Corporate,Debit Card,Same Day,352.14,8.16,18.3
+cst536,Corporate,PayPal,Express,683.19,7.89,10.28
+cst567,Small Business,PayPal,Standard,1125.56,3.47,6.95
+cst884,Consumer,PayPal,Express,1286.8,8.82,26.44
+cst669,Corporate,PayPal,Standard,1281.57,6.6,20.76
+cst470,Corporate,Debit Card,Same Day,709.37,5.35,18.22
+cst883,Consumer,PayPal,Same Day,1188.14,5.09,45.82
+cst138,Corporate,PayPal,Express,357.35,8.24,47.97
+cst746,Consumer,PayPal,Standard,174.67,7.81,25.99
+cst1038,Small Business,Credit Card,Standard,1808.41,1.19,5.15
+cst240,Small Business,Debit Card,Standard,1852.53,4.43,31.63
+cst799,Corporate,PayPal,Standard,1679.71,2.4,43.91
+cst709,Consumer,Debit Card,Express,1089.98,1.53,20.68
+cst203,Small Business,Credit Card,Express,1288.06,1.34,8.84
+cst651,Consumer,Credit Card,Express,1928.29,5.45,17.51
+cst1056,Small Business,Credit Card,Standard,1669.78,2.06,43.4
+cst418,Small Business,PayPal,Standard,996.75,2.9,49.71
+cst726,Consumer,Credit Card,Standard,50.24,2.17,30.26
+cst697,Small Business,PayPal,Standard,479.56,2.67,21.54
+cst106,Small Business,PayPal,Express,642.93,1.54,31.88
+cst196,Corporate,Debit Card,Same Day,1804.52,5.72,21.7
+cst509,Small Business,Credit Card,Standard,1935.43,4.54,24.9
+cst389,Consumer,Debit Card,Same Day,1002.03,9.15,13.65
+cst795,Small Business,Debit Card,Same Day,1974.05,7.2,11.53
+cst1003,Corporate,Debit Card,Standard,377.28,4.84,49.13
+cst848,Small Business,PayPal,Same Day,150.86,8.96,4.4
+cst727,Consumer,Credit Card,Same Day,1240.73,4.11,32.98
+cst1000,Consumer,PayPal,Standard,853.54,7.23,33.36
+cst634,Small Business,PayPal,Express,232.38,4.45,26.93
+cst831,Consumer,Credit Card,Express,1287.41,9.91,13.05
+cst964,Small Business,Debit Card,Standard,620.41,7.41,48.97
+cst175,Small Business,PayPal,Standard,742.1,4.86,9.35
+cst1096,Corporate,Debit Card,Same Day,1369.68,1.64,33.18
+cst385,Small Business,Credit Card,Standard,1517.51,6.68,4.97
+cst584,Small Business,PayPal,Same Day,940.76,9.12,43.32
+cst383,Small Business,Credit Card,Express,1009.98,4.89,21.87
+cst642,Corporate,Credit Card,Express,1222.0,6.09,41.01
+cst22,Corporate,Credit Card,Same Day,222.15,7.72,30.52
+cst330,Small Business,Debit Card,Express,1382.59,7.09,16.16
+cst398,Small Business,Credit Card,Standard,740.1,9.63,15.14
+cst326,Small Business,Credit Card,Same Day,77.05,2.74,1.2
+cst902,Consumer,Debit Card,Same Day,623.03,5.05,6.1
+cst99,Small Business,Debit Card,Same Day,1927.74,4.66,44.13
+cst761,Consumer,Credit Card,Standard,700.11,3.19,1.77
+cst397,Consumer,Credit Card,Standard,1209.5,9.08,29.55
+cst704,Small Business,PayPal,Standard,108.25,8.84,12.81
+cst1081,Small Business,Credit Card,Express,1264.15,2.3,33.49
+cst552,Small Business,Credit Card,Express,1202.38,9.18,7.38
+cst478,Consumer,Credit Card,Express,913.46,5.9,48.32
+cst300,Small Business,Debit Card,Same Day,120.28,6.94,42.12
+cst502,Consumer,Debit Card,Same Day,225.12,3.04,16.99
+cst1005,Corporate,PayPal,Express,64.51,5.08,5.62
+cst816,Consumer,Credit Card,Standard,50.34,5.0,49.89
+cst43,Small Business,PayPal,Express,1248.07,8.56,7.18
+cst23,Small Business,PayPal,Express,1826.12,5.71,22.25
+cst67,Small Business,Debit Card,Same Day,1737.68,5.9,42.05
+cst889,Small Business,Debit Card,Same Day,713.16,7.99,39.97
+cst169,Small Business,Credit Card,Standard,155.41,3.91,24.31
+cst943,Small Business,PayPal,Express,1734.64,2.95,34.99
+cst90,Consumer,PayPal,Standard,740.81,2.53,46.57
+cst837,Corporate,PayPal,Standard,1189.58,9.63,31.28
+cst129,Small Business,Debit Card,Standard,853.64,2.69,3.72
+cst860,Small Business,PayPal,Same Day,955.92,6.55,21.81
+cst694,Consumer,PayPal,Same Day,1193.04,5.42,36.07
+cst540,Consumer,Credit Card,Express,1911.38,8.1,8.76
+cst517,Consumer,Debit Card,Same Day,661.67,6.88,23.87
+cst836,Corporate,Credit Card,Same Day,1980.64,8.86,9.6
+cst822,Corporate,Credit Card,Same Day,63.69,4.78,10.69
+cst352,Consumer,Debit Card,Same Day,1984.96,6.26,35.25
+cst937,Corporate,Credit Card,Same Day,605.69,8.52,30.46
+cst78,Consumer,Credit Card,Same Day,1261.15,6.33,7.8
+cst995,Corporate,Debit Card,Standard,1630.17,5.48,28.49
+cst45,Small Business,Credit Card,Express,1431.68,1.46,42.65
+cst760,Corporate,PayPal,Express,973.94,1.85,7.8
+cst622,Corporate,Debit Card,Express,187.55,6.16,22.05
+cst1075,Small Business,Debit Card,Standard,1923.63,2.17,42.03
+cst1095,Small Business,PayPal,Express,1594.93,9.62,37.04
+cst961,Consumer,PayPal,Express,1577.4,9.59,41.9
+cst452,Small Business,Credit Card,Express,915.27,1.51,32.04
+cst333,Corporate,Debit Card,Standard,1888.67,8.39,36.82
+cst116,Consumer,PayPal,Standard,1728.4,5.6,34.44
+cst87,Consumer,PayPal,Express,939.26,7.85,42.79
+cst437,Corporate,Credit Card,Express,935.68,6.07,20.77
+cst728,Corporate,PayPal,Express,1651.75,9.07,14.93
+cst244,Corporate,Credit Card,Same Day,1221.84,1.44,46.5
+cst1030,Consumer,Debit Card,Same Day,1337.08,2.59,4.08
+cst875,Consumer,Credit Card,Standard,1983.85,4.33,34.83
+cst167,Consumer,PayPal,Same Day,1636.47,4.91,47.04
+cst421,Small Business,Debit Card,Standard,1100.52,8.57,46.4
+cst639,Consumer,Debit Card,Same Day,1182.5,4.88,20.18
+cst1036,Consumer,Debit Card,Same Day,1842.27,6.18,33.82
+cst809,Consumer,PayPal,Express,780.99,5.72,31.33
+cst338,Corporate,Debit Card,Standard,824.01,9.72,14.03
+cst438,Corporate,Debit Card,Express,1766.24,2.1,32.41
+cst548,Consumer,Debit Card,Express,501.4,3.56,14.27
+cst895,Corporate,Debit Card,Same Day,1264.19,2.95,5.64
+cst299,Consumer,Debit Card,Standard,1144.04,5.49,24.66
+cst1104,Consumer,PayPal,Same Day,219.34,3.94,35.45
+cst1137,Corporate,Credit Card,Standard,1909.54,9.7,22.66
+cst1139,Small Business,PayPal,Standard,459.22,7.03,49.37
+cst1193,Small Business,PayPal,Express,1123.31,1.52,19.89
+cst561,Small Business,PayPal,Standard,504.21,6.91,21.97
+cst867,Corporate,PayPal,Same Day,932.7,8.07,36.67
+cst1189,Corporate,Credit Card,Standard,571.39,9.03,6.93
+cst238,Small Business,Credit Card,Same Day,1141.64,4.28,37.72
+cst250,Consumer,Debit Card,Standard,430.89,9.43,45.1
+cst27,Corporate,Debit Card,Same Day,146.78,6.33,38.66
+cst542,Corporate,Debit Card,Same Day,1017.63,4.72,48.63
+cst61,Corporate,Debit Card,Standard,144.57,2.66,22.05
+cst719,Small Business,Credit Card,Express,1681.73,9.21,1.7
+cst143,Corporate,Credit Card,Same Day,141.79,5.14,12.22
+cst1131,Consumer,Debit Card,Express,1107.3,5.16,49.25
+cst930,Corporate,Debit Card,Express,536.61,7.93,19.34
+cst598,Consumer,Credit Card,Standard,865.25,4.86,31.3
+cst564,Small Business,Credit Card,Standard,876.53,7.84,27.89
+cst122,Small Business,PayPal,Standard,203.77,4.37,20.3
+cst1175,Consumer,PayPal,Standard,1331.41,3.79,3.66
+cst1023,Consumer,Debit Card,Express,1725.85,7.82,35.73
+cst747,Corporate,Debit Card,Standard,1332.8,1.01,26.98
+cst753,Consumer,PayPal,Express,1399.21,5.52,46.14
+cst511,Consumer,Credit Card,Standard,1013.69,3.42,1.01
+cst941,Small Business,Credit Card,Express,1072.72,7.71,18.23
+cst750,Consumer,PayPal,Same Day,1531.57,2.82,5.2
+cst56,Corporate,Credit Card,Standard,852.47,2.63,49.81
+cst279,Corporate,PayPal,Standard,513.29,3.42,41.71
+cst671,Consumer,Credit Card,Standard,179.1,4.05,9.74
+cst973,Corporate,Credit Card,Same Day,1847.16,8.53,28.36
+cst316,Small Business,Credit Card,Standard,422.27,1.81,23.59
+cst1069,Consumer,Credit Card,Same Day,1183.04,1.38,17.13
+cst1101,Small Business,Debit Card,Express,1089.5,1.09,17.28
+cst569,Corporate,Credit Card,Express,788.8,7.15,10.01
+cst992,Consumer,PayPal,Express,1459.06,8.33,27.81
+cst966,Consumer,PayPal,Same Day,294.05,1.65,22.85
+cst305,Corporate,Credit Card,Express,463.04,3.75,33.55
+cst602,Small Business,PayPal,Express,1546.95,5.49,26.09
+cst285,Corporate,PayPal,Express,962.33,9.33,37.87
+cst360,Small Business,Debit Card,Same Day,89.27,7.78,35.92
+cst528,Corporate,Debit Card,Same Day,725.63,3.79,32.34
+cst880,Small Business,Debit Card,Same Day,1557.62,1.18,15.75
+cst286,Consumer,PayPal,Express,1220.64,1.28,49.21
+cst368,Small Business,Debit Card,Same Day,912.23,7.25,7.73
+cst1085,Corporate,Debit Card,Express,1115.03,6.14,8.83
+cst712,Small Business,Credit Card,Express,1858.33,2.9,46.04
+cst859,Corporate,Debit Card,Same Day,1698.04,1.32,22.67
+cst612,Small Business,PayPal,Same Day,1224.72,4.84,40.75
+cst51,Corporate,PayPal,Standard,68.47,9.22,20.56
+cst635,Corporate,PayPal,Standard,1788.32,5.2,19.77
+cst492,Consumer,Debit Card,Express,1480.68,4.99,35.63
+cst1087,Small Business,Credit Card,Same Day,950.79,4.23,40.16
+cst103,Consumer,Credit Card,Express,248.21,8.99,22.87
+cst119,Consumer,PayPal,Standard,820.84,5.89,42.4
+cst743,Small Business,Credit Card,Same Day,1127.85,5.53,49.33
+cst401,Corporate,Credit Card,Standard,735.21,3.58,36.45
+cst44,Corporate,Credit Card,Standard,1669.03,9.06,4.55
+cst504,Corporate,Credit Card,Express,204.56,3.73,39.87
+cst498,Small Business,Credit Card,Same Day,891.47,1.15,32.24
+cst1068,Corporate,Credit Card,Express,109.95,4.74,28.45
+cst1098,Corporate,Credit Card,Same Day,1775.39,8.86,18.64
+cst404,Small Business,Debit Card,Express,89.64,2.81,34.21
+cst29,Small Business,Credit Card,Express,1992.6,1.34,30.73
+cst812,Consumer,Debit Card,Express,1512.71,4.57,29.86
+cst1164,Consumer,Debit Card,Same Day,1896.96,1.36,35.7
+cst590,Corporate,Debit Card,Same Day,1108.87,6.51,1.58
+cst1031,Small Business,Debit Card,Standard,1839.76,6.04,41.3
+cst133,Small Business,Debit Card,Express,1535.04,3.35,2.15
+cst1192,Consumer,Credit Card,Same Day,1819.08,4.0,30.65
+cst248,Corporate,PayPal,Express,611.74,3.9,2.98
+cst1134,Corporate,Credit Card,Express,1789.92,3.67,2.55
+cst214,Small Business,PayPal,Express,503.25,4.75,44.39
+cst1025,Corporate,PayPal,Standard,1992.31,5.91,40.67
+cst631,Corporate,Credit Card,Express,686.32,9.67,46.98
+cst347,Consumer,PayPal,Express,1406.6,7.44,11.66
+cst764,Small Business,PayPal,Express,1781.46,5.75,29.3
+cst159,Small Business,Credit Card,Express,53.5,3.09,12.28
+cst1120,Small Business,Credit Card,Same Day,1758.34,3.36,19.76
+cst112,Corporate,PayPal,Express,1510.95,5.21,25.57
+cst144,Corporate,Credit Card,Same Day,1420.12,4.16,5.91
+cst98,Small Business,Debit Card,Same Day,133.18,1.07,24.92
+cst538,Consumer,PayPal,Express,1090.71,6.59,13.76
+cst523,Small Business,Debit Card,Standard,404.12,6.03,32.88
+cst180,Corporate,Credit Card,Express,273.48,7.96,22.2
+cst993,Corporate,PayPal,Same Day,1446.15,5.8,24.6
+cst163,Corporate,Credit Card,Standard,1457.28,7.81,22.13
+cst682,Corporate,Debit Card,Standard,893.84,1.7,9.3
+cst738,Small Business,Credit Card,Standard,1684.94,3.17,10.18
+cst853,Corporate,Debit Card,Standard,185.06,8.48,13.44
+cst222,Consumer,Credit Card,Standard,887.15,7.43,14.67
+cst1127,Consumer,Debit Card,Standard,696.68,1.94,21.64
+cst770,Corporate,Debit Card,Same Day,890.26,2.97,33.06
+cst211,Consumer,PayPal,Standard,229.73,9.65,22.44
+cst454,Small Business,Credit Card,Express,724.56,6.8,43.73
+cst731,Consumer,Credit Card,Same Day,1085.43,7.2,34.85
+cst24,Corporate,Debit Card,Same Day,1806.73,6.06,3.03
+cst926,Small Business,PayPal,Standard,232.26,2.24,3.7
+cst270,Consumer,PayPal,Same Day,1561.2,2.72,48.51
+cst745,Consumer,Debit Card,Standard,1690.23,3.43,1.09
+cst594,Corporate,Debit Card,Same Day,1122.88,8.37,12.75
+cst1057,Small Business,Debit Card,Same Day,794.62,3.19,5.98
+cst71,Corporate,Credit Card,Same Day,520.93,4.29,27.39
+cst225,Small Business,Debit Card,Express,578.25,8.56,3.38
+cst645,Corporate,Credit Card,Same Day,1137.73,6.18,19.0
+cst442,Corporate,Debit Card,Standard,1623.08,6.2,37.72
+cst797,Small Business,Debit Card,Express,1903.55,2.64,31.78
+cst150,Corporate,Credit Card,Same Day,672.7,6.45,13.73
+cst1050,Small Business,Credit Card,Standard,1389.29,1.35,1.05
+cst1153,Corporate,PayPal,Express,347.45,7.47,1.25
+cst177,Corporate,PayPal,Express,932.78,6.91,41.34
+cst596,Small Business,PayPal,Express,551.6,7.15,38.16
+cst881,Consumer,PayPal,Standard,528.26,4.27,36.66
+cst617,Small Business,Credit Card,Same Day,623.17,4.55,27.15
+cst1040,Corporate,Debit Card,Express,140.73,4.33,44.46
+cst254,Consumer,PayPal,Express,589.52,9.92,24.81
+cst94,Corporate,PayPal,Same Day,697.79,3.5,47.67
+cst882,Consumer,PayPal,Standard,1083.19,2.14,2.21
+cst268,Small Business,Debit Card,Standard,818.33,8.72,9.59
+cst640,Small Business,Credit Card,Same Day,1804.6,8.1,29.24
+cst231,Small Business,Debit Card,Same Day,1796.6,2.8,21.29
+cst451,Small Business,Credit Card,Same Day,187.68,5.26,21.1
+cst72,Consumer,PayPal,Express,595.75,9.99,43.03
+cst636,Corporate,Credit Card,Express,1375.52,2.56,16.67
+cst806,Corporate,Credit Card,Standard,257.96,2.2,21.36
+cst265,Corporate,Debit Card,Standard,61.5,1.84,49.43
+cst1111,Small Business,Credit Card,Express,936.14,1.35,30.91
+cst722,Small Business,Debit Card,Express,1272.82,3.7,46.94
+cst688,Corporate,PayPal,Same Day,935.48,4.45,36.67
+cst18,Small Business,Credit Card,Standard,1459.99,5.23,8.08
+cst625,Consumer,Credit Card,Express,1531.34,9.81,32.22
+cst292,Consumer,PayPal,Same Day,1213.83,2.4,31.87
+cst323,Consumer,Debit Card,Standard,1714.01,6.05,41.41
+cst575,Consumer,Debit Card,Standard,1177.77,6.62,11.17
+cst459,Corporate,PayPal,Express,1585.79,8.27,36.24
+cst892,Consumer,Credit Card,Same Day,946.06,6.26,41.26
+cst344,Consumer,Credit Card,Same Day,578.26,4.89,49.49
+cst296,Small Business,Debit Card,Standard,360.83,1.12,41.38
+cst439,Consumer,PayPal,Same Day,833.42,2.31,20.08
+cst1162,Consumer,PayPal,Express,257.51,3.11,19.08
+cst1188,Small Business,Credit Card,Standard,102.92,1.91,44.54
+cst734,Corporate,Credit Card,Express,1894.09,4.26,5.34
+cst686,Small Business,Credit Card,Express,1807.95,2.23,4.63
+cst59,Corporate,Debit Card,Standard,479.24,7.34,1.21
+cst183,Corporate,Credit Card,Same Day,712.12,8.97,22.5
+cst702,Small Business,Debit Card,Same Day,542.58,8.08,36.05
+cst483,Small Business,Debit Card,Standard,1803.38,7.01,34.92
+cst155,Corporate,Credit Card,Same Day,1494.22,7.55,32.59
+cst284,Small Business,PayPal,Standard,504.21,5.76,9.86
+cst788,Small Business,Debit Card,Express,670.05,2.82,22.15
+cst701,Small Business,Credit Card,Standard,882.43,9.38,12.19
+cst1172,Small Business,PayPal,Express,1868.68,5.97,29.26
+cst346,Consumer,PayPal,Same Day,1708.41,9.09,6.6
+cst91,Corporate,PayPal,Same Day,1481.17,5.14,10.51
+cst327,Corporate,Credit Card,Express,1357.75,2.72,20.66
+cst480,Corporate,Debit Card,Standard,1255.72,8.46,21.71
+cst623,Corporate,PayPal,Standard,435.16,4.24,9.67
+cst194,Consumer,Credit Card,Same Day,1128.26,2.47,16.03
+cst729,Corporate,Debit Card,Standard,1165.78,2.46,23.61
+cst410,Corporate,Credit Card,Express,734.44,9.36,33.88
+cst1147,Corporate,Credit Card,Same Day,27.89,9.28,34.38
+cst785,Small Business,Debit Card,Express,1068.55,2.61,3.37
+cst446,Corporate,PayPal,Same Day,420.18,3.44,8.84
+cst940,Corporate,PayPal,Express,1203.47,4.38,3.24
+cst166,Small Business,Debit Card,Same Day,462.16,3.95,49.11
+cst1197,Small Business,Credit Card,Express,202.2,5.18,20.03
+cst981,Corporate,Credit Card,Standard,1628.03,7.13,19.51
+cst1122,Consumer,Debit Card,Same Day,354.31,8.58,23.72
+cst156,Consumer,Debit Card,Standard,1525.02,2.45,26.32
+cst893,Corporate,Credit Card,Standard,403.78,5.71,26.74
+cst629,Small Business,Credit Card,Express,942.5,9.85,19.83
+cst212,Consumer,Debit Card,Standard,1938.84,1.62,34.38
+cst911,Corporate,Debit Card,Express,195.27,9.82,20.51
+cst406,Consumer,PayPal,Same Day,1866.88,7.66,14.41
+cst329,Corporate,PayPal,Standard,1466.44,2.8,41.89
+cst675,Corporate,Debit Card,Same Day,1522.32,6.14,9.4
+cst261,Corporate,Debit Card,Express,217.88,2.44,46.38
+cst956,Corporate,Debit Card,Express,656.95,3.76,26.93
+cst1028,Small Business,Debit Card,Standard,1631.7,1.66,35.31
+cst95,Corporate,Credit Card,Express,1730.48,8.71,9.22
+cst310,Consumer,PayPal,Same Day,273.89,8.21,18.77
+cst676,Corporate,Debit Card,Express,1890.69,1.22,48.21
+cst1125,Corporate,Debit Card,Standard,319.4,9.55,35.55
+cst1194,Small Business,Debit Card,Express,1131.62,4.07,15.07
+cst908,Consumer,PayPal,Same Day,1525.45,3.28,2.68
+cst896,Consumer,PayPal,Express,1705.87,4.44,48.27
+cst1009,Consumer,Credit Card,Standard,537.6,8.64,47.57
+cst585,Small Business,Credit Card,Express,1511.74,4.1,31.73
+cst160,Consumer,PayPal,Standard,1952.04,5.43,19.64
+cst425,Consumer,Credit Card,Same Day,1765.91,5.97,18.85
+cst703,Consumer,Debit Card,Same Day,1797.52,7.64,10.13
+cst510,Consumer,Credit Card,Express,1454.76,7.41,43.02
+cst1014,Small Business,Credit Card,Express,120.47,5.01,42.11
+cst1022,Small Business,Debit Card,Same Day,797.05,8.68,16.56
+cst1039,Small Business,Debit Card,Standard,1395.94,9.62,16.6
+cst608,Corporate,Credit Card,Standard,1920.63,2.71,38.75
+cst233,Consumer,PayPal,Standard,1782.68,9.55,46.01
+cst706,Consumer,PayPal,Same Day,497.39,6.41,44.64
+cst560,Small Business,PayPal,Same Day,687.94,4.27,16.86
+cst587,Small Business,Credit Card,Same Day,1796.59,9.88,11.57
+cst866,Small Business,Credit Card,Express,1053.48,9.1,32.59
+cst495,Consumer,PayPal,Standard,1266.07,5.92,16.84
+cst273,Consumer,Credit Card,Standard,1289.79,7.81,20.9
+cst10,Consumer,Credit Card,Standard,890.81,6.07,32.91
+cst393,Small Business,PayPal,Standard,383.95,9.72,33.19
+cst237,Small Business,Debit Card,Standard,238.58,4.44,30.84
+cst241,Small Business,PayPal,Same Day,1861.12,2.12,12.9
+cst599,Corporate,Debit Card,Standard,810.22,3.02,6.68
+cst152,Small Business,Debit Card,Same Day,1627.91,2.91,47.81
+cst402,Small Business,Debit Card,Same Day,873.02,2.6,22.18
+cst588,Corporate,Debit Card,Standard,861.5,5.46,6.44
+cst834,Corporate,Debit Card,Standard,678.06,1.0,19.31
+cst1051,Consumer,PayPal,Express,1248.35,7.06,1.6
+cst216,Small Business,PayPal,Same Day,145.33,3.43,1.71
+cst1037,Corporate,Debit Card,Same Day,999.89,3.23,41.83
+cst293,Corporate,PayPal,Standard,1814.57,3.23,10.52
+cst715,Consumer,PayPal,Express,798.87,7.6,15.74
+cst1154,Small Business,PayPal,Standard,28.72,7.1,36.7
+cst380,Corporate,Credit Card,Same Day,83.46,5.49,1.13
+cst963,Consumer,Credit Card,Standard,1642.43,4.29,25.91
+cst768,Consumer,Credit Card,Standard,1422.21,5.86,41.55
+cst1063,Corporate,Credit Card,Express,1771.47,7.69,19.96
+cst111,Small Business,Debit Card,Standard,1224.27,3.78,39.96
+cst649,Corporate,PayPal,Standard,211.58,5.86,5.3
+cst946,Consumer,Debit Card,Standard,1818.41,2.7,35.85
+cst740,Corporate,PayPal,Express,1339.98,9.51,33.69
+cst1141,Consumer,PayPal,Express,98.68,1.28,47.48
+cst288,Consumer,Credit Card,Standard,1251.73,6.01,30.11
+cst426,Small Business,Credit Card,Same Day,254.68,9.7,29.12
+cst223,Consumer,PayPal,Express,1233.62,7.27,42.36
+cst267,Small Business,Credit Card,Same Day,1427.97,7.98,25.96
+cst518,Small Business,Credit Card,Same Day,1246.05,6.52,48.49
+cst467,Small Business,PayPal,Same Day,660.36,9.15,47.67
+cst1132,Consumer,PayPal,Same Day,1562.73,2.43,1.38
+cst683,Corporate,Credit Card,Express,1429.67,9.79,9.31
+cst1148,Consumer,Credit Card,Same Day,799.54,6.72,5.05
+cst290,Consumer,Debit Card,Standard,473.2,3.37,36.87
+cst621,Consumer,Credit Card,Standard,1080.9,2.42,15.06
+cst786,Corporate,PayPal,Express,1237.77,3.54,20.16
+cst1177,Corporate,Credit Card,Express,714.94,8.1,23.48
+cst304,Consumer,Debit Card,Same Day,650.34,2.78,6.56
+cst543,Small Business,PayPal,Standard,1026.23,7.97,42.76
+cst597,Corporate,Credit Card,Express,1539.07,4.37,1.28
+cst630,Small Business,Credit Card,Express,1786.39,1.72,13.47
+cst192,Small Business,Debit Card,Express,1290.69,9.54,14.88
+cst556,Small Business,Debit Card,Standard,1651.22,4.29,5.78
+cst757,Small Business,Credit Card,Standard,168.13,6.67,34.36
+cst855,Consumer,Debit Card,Same Day,472.2,7.84,33.24
+cst805,Corporate,PayPal,Same Day,1671.68,5.58,35.2
+cst553,Consumer,Debit Card,Standard,1837.05,9.67,3.31
+cst1043,Small Business,PayPal,Same Day,111.11,7.99,28.14
+cst409,Consumer,Debit Card,Same Day,683.2,1.43,35.18
+cst243,Consumer,Debit Card,Express,1155.79,9.46,20.66
+cst989,Small Business,Credit Card,Express,974.38,2.68,43.26
+cst871,Small Business,Credit Card,Express,1733.63,3.81,35.88
+cst32,Consumer,Debit Card,Express,1605.91,4.87,13.06
+cst39,Consumer,PayPal,Express,1504.14,2.67,47.74
+cst1049,Corporate,Credit Card,Same Day,543.25,7.9,46.16
+cst1169,Small Business,Debit Card,Standard,1784.96,1.94,36.68
+cst443,Corporate,Credit Card,Standard,1285.52,9.62,22.02
+cst1084,Small Business,PayPal,Express,952.11,5.7,13.83
+cst714,Corporate,PayPal,Standard,1895.22,6.01,3.82
+cst777,Small Business,Debit Card,Standard,1984.74,8.72,38.51
+cst958,Small Business,Debit Card,Express,1862.36,6.5,18.21
+cst234,Consumer,Credit Card,Same Day,1832.6,3.08,34.83
+cst578,Small Business,Credit Card,Express,406.87,9.87,46.65
+cst83,Consumer,PayPal,Express,429.81,3.57,39.22
+cst900,Corporate,PayPal,Standard,959.53,2.43,30.62
+cst1124,Consumer,Credit Card,Same Day,1989.5,3.17,46.66
+cst74,Consumer,PayPal,Standard,868.13,9.57,13.37
+cst1082,Consumer,Credit Card,Express,1931.48,7.13,8.92
+cst489,Small Business,Credit Card,Standard,1908.58,8.61,14.61
+cst1144,Consumer,Credit Card,Express,1026.64,9.31,23.11
+cst1168,Corporate,Credit Card,Express,1613.12,2.06,2.48
+cst460,Corporate,Debit Card,Standard,444.43,9.66,37.29
+cst1107,Consumer,Credit Card,Same Day,135.59,4.41,31.52
+cst379,Small Business,Debit Card,Standard,139.12,3.47,32.98
+cst319,Consumer,Credit Card,Standard,1147.35,4.16,7.96
+cst332,Consumer,Debit Card,Standard,863.4,9.65,11.43
+cst126,Small Business,PayPal,Same Day,1214.96,5.7,43.8
+cst918,Small Business,PayPal,Standard,1037.16,3.61,8.05
+cst901,Corporate,Debit Card,Same Day,501.48,3.28,37.14
+cst798,Consumer,PayPal,Standard,123.54,1.54,24.52
+cst218,Corporate,Debit Card,Same Day,513.36,1.49,20.44
+cst678,Corporate,Debit Card,Standard,663.55,4.93,13.15
+cst49,Consumer,PayPal,Same Day,795.76,7.91,34.19
+cst53,Consumer,Credit Card,Standard,1119.14,6.0,48.7
+cst852,Consumer,Credit Card,Express,304.75,8.39,38.5
+cst79,Consumer,PayPal,Express,179.53,2.23,30.24
+cst465,Consumer,PayPal,Standard,584.2,5.51,1.63
+cst1015,Small Business,Credit Card,Same Day,1827.45,5.56,31.74
+cst232,Small Business,PayPal,Express,1169.32,6.85,20.31
+cst339,Small Business,Credit Card,Standard,1674.31,8.32,40.86
+cst1159,Consumer,PayPal,Express,1941.21,6.15,15.37
+cst477,Consumer,PayPal,Same Day,1185.68,6.13,26.11
+cst448,Small Business,Credit Card,Standard,1121.19,5.14,6.92
+cst657,Consumer,Credit Card,Same Day,1945.48,5.12,9.84
+cst1071,Consumer,Debit Card,Standard,1677.47,8.74,48.96
+cst161,Consumer,Credit Card,Same Day,1955.04,9.7,30.49
+cst558,Small Business,Debit Card,Express,671.5,2.46,47.77
+cst358,Corporate,Debit Card,Standard,835.7,9.57,3.89
+cst783,Small Business,PayPal,Same Day,924.06,4.02,1.66
+cst384,Consumer,PayPal,Same Day,774.67,1.44,12.24
+cst939,Small Business,PayPal,Same Day,60.77,1.93,41.29
+cst1064,Small Business,Credit Card,Same Day,191.76,5.37,37.34
+cst549,Consumer,PayPal,Express,1116.3,1.98,5.53
+cst1129,Small Business,Debit Card,Express,622.4,7.45,22.41
+cst825,Corporate,Credit Card,Same Day,305.77,8.13,40.44
+cst577,Small Business,PayPal,Standard,1842.83,3.07,16.21
+cst865,Corporate,Debit Card,Standard,566.53,4.88,20.64
+cst386,Small Business,Debit Card,Standard,523.26,8.47,19.73
+cst1061,Consumer,Debit Card,Same Day,1711.03,1.98,28.29
+cst807,Small Business,PayPal,Same Day,1341.47,5.63,32.2
+cst603,Corporate,PayPal,Standard,546.09,7.61,14.03
+cst705,Corporate,Credit Card,Same Day,1310.58,7.78,46.45
+cst321,Consumer,PayPal,Express,332.46,5.07,11.92
+cst37,Small Business,PayPal,Standard,1854.63,7.47,16.13
+cst673,Consumer,PayPal,Same Day,1761.69,4.58,17.4
+cst1033,Corporate,Debit Card,Same Day,560.6,4.13,18.19
+cst117,Consumer,PayPal,Standard,734.83,4.58,18.92
+cst390,Consumer,Credit Card,Same Day,844.73,2.39,29.98
+cst1032,Corporate,PayPal,Express,645.59,7.89,36.39
+cst1017,Small Business,Debit Card,Same Day,468.26,8.08,25.53
+cst342,Small Business,Credit Card,Same Day,121.64,4.1,16.36
+cst1010,Corporate,Credit Card,Standard,1673.18,8.12,48.16
+cst387,Corporate,PayPal,Express,441.43,6.16,25.73
+cst1077,Consumer,Debit Card,Standard,755.76,5.77,44.09
+cst934,Consumer,PayPal,Express,649.81,4.3,31.22
+cst755,Consumer,Debit Card,Standard,1171.24,4.99,25.55
+cst766,Small Business,PayPal,Standard,1966.88,4.51,33.34
+cst423,Small Business,PayPal,Standard,719.28,9.12,2.22
+cst57,Corporate,Debit Card,Standard,221.4,9.52,31.95
+cst1149,Consumer,Credit Card,Express,1041.97,1.9,19.42
+cst776,Small Business,Debit Card,Express,1580.16,7.1,39.73
+cst1167,Small Business,Debit Card,Express,1075.87,1.13,17.45
+cst354,Small Business,PayPal,Express,483.38,9.66,49.39
+cst1008,Consumer,PayPal,Same Day,494.21,4.21,26.35
+cst821,Corporate,Credit Card,Express,100.55,5.73,28.57
+cst363,Corporate,Debit Card,Same Day,52.88,4.96,11.66
+cst414,Consumer,Debit Card,Standard,1751.53,7.42,2.12
+cst1117,Corporate,Debit Card,Standard,50.07,5.26,2.23
+cst551,Consumer,Debit Card,Standard,1317.99,2.62,33.75
+cst249,Small Business,Debit Card,Standard,708.61,1.51,30.44
+cst413,Corporate,PayPal,Same Day,122.06,9.95,44.54
+cst699,Consumer,PayPal,Same Day,685.58,4.4,12.21
+cst507,Corporate,Credit Card,Same Day,1186.87,7.12,37.14
+cst850,Small Business,PayPal,Same Day,1808.84,8.43,34.89
+cst515,Consumer,Credit Card,Same Day,164.3,8.83,9.65
+cst399,Small Business,PayPal,Same Day,1744.42,6.64,3.42
+cst986,Small Business,PayPal,Standard,144.41,1.32,29.88
+cst28,Small Business,Credit Card,Express,1045.83,1.71,26.94
+cst147,Corporate,PayPal,Standard,195.92,6.51,47.19
+cst1142,Consumer,Debit Card,Standard,433.33,1.46,1.63
+cst541,Corporate,PayPal,Same Day,429.31,1.23,32.49
+cst972,Small Business,PayPal,Same Day,1573.93,9.49,31.68
+cst291,Small Business,Debit Card,Same Day,781.43,7.37,5.45
+cst888,Corporate,Credit Card,Same Day,509.81,2.89,30.6
+cst1094,Small Business,PayPal,Same Day,1703.08,1.6,25.2
+cst317,Corporate,Debit Card,Express,1053.4,6.03,6.3
+cst130,Small Business,Debit Card,Standard,298.21,6.12,28.96
+cst571,Small Business,Debit Card,Express,1472.15,4.15,43.94
+cst815,Consumer,Debit Card,Standard,1424.66,5.55,44.19
+cst328,Small Business,Debit Card,Standard,287.12,7.05,44.86
+cst890,Small Business,Credit Card,Express,1604.96,8.0,33.32
+cst1041,Small Business,PayPal,Express,1104.49,1.93,2.86
+cst464,Consumer,Debit Card,Same Day,779.42,2.25,3.85
+cst1042,Corporate,Debit Card,Standard,1593.97,5.49,6.47
+cst996,Small Business,Debit Card,Same Day,110.0,4.74,44.9
+cst531,Small Business,PayPal,Same Day,1363.75,9.85,23.89
+cst281,Consumer,Credit Card,Standard,424.91,1.65,10.86
+cst947,Corporate,Debit Card,Standard,452.77,8.78,28.74
+cst1102,Consumer,Debit Card,Express,852.55,2.27,21.94
+cst26,Small Business,Credit Card,Express,1815.43,8.69,12.08
+cst367,Small Business,Credit Card,Same Day,897.98,6.59,29.05
+cst1044,Consumer,PayPal,Express,1744.04,4.12,41.44
+cst182,Corporate,Debit Card,Express,1978.93,1.09,8.22
+cst801,Consumer,Credit Card,Express,1024.27,7.76,28.37
+cst921,Consumer,Credit Card,Express,1942.72,9.72,47.12
+cst224,Corporate,PayPal,Express,397.31,3.95,42.04
+cst787,Small Business,PayPal,Same Day,1980.02,6.84,47.97
+cst679,Corporate,PayPal,Same Day,1185.92,4.38,15.37
+cst988,Corporate,Credit Card,Same Day,1513.65,3.52,24.09
+cst1109,Consumer,PayPal,Standard,1210.79,5.55,16.23
+cst637,Corporate,Credit Card,Express,282.83,3.15,11.07
+cst874,Corporate,Credit Card,Express,371.61,2.01,32.56
+cst723,Consumer,Credit Card,Express,1042.16,2.94,26.82
+cst260,Corporate,Debit Card,Same Day,1930.05,7.52,26.82
+cst611,Corporate,Credit Card,Express,585.44,1.51,19.84
+cst975,Corporate,PayPal,Standard,1231.26,4.98,4.19
+cst938,Small Business,PayPal,Express,61.85,4.11,43.19
+cst429,Corporate,Credit Card,Standard,218.31,3.9,13.36
+cst174,Consumer,Credit Card,Same Day,1565.07,9.86,37.33
+cst604,Corporate,PayPal,Standard,508.96,9.44,33.3
+cst949,Small Business,Credit Card,Same Day,1727.17,2.77,7.79
+cst1074,Corporate,PayPal,Standard,507.9,3.1,28.54
+cst289,Consumer,PayPal,Standard,1274.34,6.45,44.99
+cst985,Small Business,Credit Card,Express,1214.34,4.07,37.59
+cst474,Small Business,Credit Card,Same Day,1503.73,3.09,3.66
+cst643,Consumer,Credit Card,Same Day,73.45,3.61,40.76
+cst967,Small Business,PayPal,Standard,1378.83,7.2,1.38
+cst720,Consumer,Credit Card,Same Day,179.99,9.5,35.31
+cst572,Small Business,Debit Card,Express,634.5,7.51,48.96
+cst519,Consumer,PayPal,Standard,735.95,4.19,41.6
+cst897,Small Business,PayPal,Express,1337.61,9.05,45.27
+cst1191,Consumer,Credit Card,Same Day,1437.59,3.18,45.68
+cst1090,Small Business,PayPal,Same Day,1837.29,6.56,11.25
+cst1126,Consumer,PayPal,Same Day,636.67,4.35,41.29
+cst1163,Corporate,Debit Card,Same Day,1696.1,3.58,22.67
+cst262,Consumer,Credit Card,Standard,427.6,5.11,48.59
+cst810,Small Business,Debit Card,Express,1364.39,3.94,12.47
+cst685,Consumer,Credit Card,Express,555.09,7.96,45.75
+cst73,Corporate,Debit Card,Standard,1277.49,9.88,38.65
+cst891,Small Business,Credit Card,Express,702.21,5.77,42.45
+cst927,Corporate,Credit Card,Standard,1535.7,5.2,27.27
+cst661,Consumer,Credit Card,Express,1806.25,8.35,4.65
+cst844,Small Business,Debit Card,Standard,301.61,8.54,20.62
+cst274,Small Business,Debit Card,Same Day,1295.23,5.92,31.47
+cst887,Small Business,Debit Card,Same Day,923.13,2.79,46.75
+cst591,Small Business,PayPal,Standard,426.16,7.22,9.7
+cst436,Corporate,PayPal,Express,273.65,5.36,48.69
+cst1165,Corporate,Credit Card,Same Day,364.63,3.7,12.6
+cst48,Corporate,PayPal,Express,708.82,5.98,37.12
+cst449,Corporate,PayPal,Express,425.44,1.28,47.71
+cst800,Corporate,PayPal,Standard,1943.9,5.42,39.3
+cst873,Small Business,PayPal,Standard,890.67,9.67,47.23
+cst1011,Consumer,PayPal,Same Day,682.76,9.25,18.26
+cst235,Small Business,PayPal,Standard,407.26,8.45,26.87
+cst652,Small Business,Credit Card,Express,1894.22,7.14,13.0
+cst1070,Small Business,PayPal,Same Day,383.49,2.85,42.18
+cst1157,Small Business,Credit Card,Express,1373.61,2.61,34.51
+cst229,Small Business,Debit Card,Same Day,82.26,1.07,25.16
+cst282,Corporate,Debit Card,Same Day,1685.98,2.4,25.81
+cst476,Corporate,PayPal,Same Day,338.2,2.46,33.71
+cst145,Consumer,PayPal,Same Day,1166.87,9.43,11.79
+cst251,Consumer,PayPal,Standard,1945.53,3.96,10.51
+cst696,Consumer,PayPal,Standard,658.02,2.45,21.36
+cst1108,Consumer,Debit Card,Express,1168.44,7.93,1.01
+cst628,Consumer,Credit Card,Same Day,1811.49,9.58,40.32
+cst653,Small Business,Debit Card,Express,93.06,6.18,46.97
+cst80,Consumer,Debit Card,Same Day,1213.75,7.8,31.75
+cst8,Small Business,Debit Card,Express,1576.94,5.06,38.27
+cst179,Small Business,Credit Card,Express,1076.89,6.15,33.22
+cst494,Consumer,Debit Card,Same Day,794.81,4.08,18.17
+cst847,Corporate,PayPal,Same Day,1754.78,1.37,11.9
+cst1073,Corporate,Debit Card,Express,1979.83,1.68,28.1
+cst904,Corporate,PayPal,Express,820.2,8.0,5.82
+cst221,Small Business,Debit Card,Express,972.92,4.61,13.89
+cst493,Corporate,Debit Card,Express,1800.41,5.84,38.7
+cst1106,Consumer,Debit Card,Standard,1525.62,3.95,4.09
+cst1116,Corporate,Credit Card,Same Day,551.98,5.96,30.31
+cst157,Small Business,Credit Card,Standard,1711.68,8.86,45.19
+cst148,Consumer,PayPal,Express,524.49,6.65,20.56
+cst149,Consumer,Credit Card,Standard,1699.59,8.77,31.21
+cst193,Small Business,Debit Card,Same Day,954.84,2.27,17.18
+cst337,Corporate,Debit Card,Same Day,1255.36,1.99,2.02
+cst942,Corporate,Debit Card,Express,1200.5,5.31,40.31
+cst1135,Small Business,Credit Card,Standard,700.71,1.17,20.66
+cst201,Small Business,Debit Card,Express,1223.49,9.71,36.2
+cst381,Small Business,PayPal,Standard,650.78,2.39,9.63
+cst450,Corporate,Credit Card,Same Day,162.29,4.45,48.95
+cst361,Corporate,Credit Card,Standard,265.66,8.27,15.24
+cst654,Small Business,PayPal,Same Day,1566.02,3.54,41.26
+cst84,Consumer,Credit Card,Same Day,364.18,6.05,48.87
+cst997,Consumer,Debit Card,Express,1893.91,5.96,6.99
+cst581,Consumer,Debit Card,Same Day,1076.12,4.18,46.62
+cst917,Consumer,PayPal,Express,1654.79,2.13,18.62
+cst1007,Corporate,PayPal,Standard,1441.57,6.65,19.53
+cst266,Consumer,PayPal,Standard,350.14,2.87,49.06
+cst343,Consumer,PayPal,Same Day,1972.85,3.61,3.9
+cst140,Corporate,Credit Card,Standard,1533.61,1.88,23.25
+cst824,Small Business,Credit Card,Express,31.92,9.1,33.9
+cst30,Small Business,Debit Card,Standard,1456.27,7.76,46.88
+cst684,Corporate,Debit Card,Express,1354.5,1.66,13.7
+cst1065,Corporate,Debit Card,Same Day,667.9,5.47,13.79
+cst535,Corporate,PayPal,Standard,861.6,3.11,5.96
+cst570,Consumer,Credit Card,Express,449.81,9.18,17.08
+cst1140,Consumer,PayPal,Express,1510.75,6.42,38.59
+cst879,Small Business,PayPal,Standard,1772.21,7.87,33.66
+cst820,Consumer,Credit Card,Express,552.16,5.31,45.98
+cst76,Corporate,Debit Card,Standard,532.5,5.34,13.04
+cst1105,Small Business,Debit Card,Same Day,419.72,1.57,10.43
+cst1046,Corporate,PayPal,Same Day,1691.21,2.38,4.94
+cst162,Consumer,PayPal,Same Day,192.55,7.55,37.81
+cst34,Consumer,PayPal,Standard,1321.18,4.86,19.02
+cst817,Corporate,Debit Card,Standard,242.58,9.08,22.36
+cst417,Corporate,PayPal,Standard,1563.28,10.0,24.32
+cst794,Small Business,PayPal,Standard,1490.05,6.44,41.01
+cst987,Small Business,PayPal,Standard,71.63,1.94,45.34
+cst447,Corporate,Credit Card,Standard,1855.34,7.5,31.61
+cst66,Small Business,PayPal,Standard,447.74,3.29,47.53
+cst92,Corporate,Debit Card,Express,1501.16,9.13,12.22
+cst1200,Small Business,PayPal,Standard,1006.38,6.94,26.43
+cst1170,Consumer,Debit Card,Standard,960.93,5.2,14.62
+cst60,Consumer,PayPal,Same Day,1293.66,2.54,11.58
+cst1173,Consumer,Debit Card,Same Day,158.07,4.2,41.2
+cst579,Consumer,Debit Card,Same Day,389.89,8.78,36.92
+cst341,Consumer,Debit Card,Express,1241.72,3.88,11.99
+cst132,Corporate,PayPal,Standard,488.51,8.41,35.71
+cst1143,Consumer,Credit Card,Express,293.41,5.0,9.83
+cst2,Corporate,Debit Card,Standard,329.54,1.82,33.41
+cst455,Consumer,PayPal,Standard,616.85,8.8,44.83
+cst903,Corporate,Credit Card,Standard,966.23,4.25,34.38
+cst779,Corporate,PayPal,Express,1078.4,7.79,16.2
+cst1115,Consumer,Debit Card,Standard,1190.57,8.06,26.55
+cst739,Small Business,PayPal,Express,931.63,8.7,10.27
+cst204,Small Business,Debit Card,Standard,1750.74,9.83,36.55
+cst624,Small Business,PayPal,Express,1664.12,4.04,3.0
+cst424,Small Business,Credit Card,Express,705.74,3.53,7.19
+cst856,Small Business,PayPal,Same Day,1809.99,8.7,34.26
+cst372,Small Business,Debit Card,Same Day,941.32,3.55,38.78
+cst68,Small Business,Debit Card,Express,595.68,9.67,9.34
+cst736,Corporate,PayPal,Same Day,1219.29,3.06,42.22
+cst894,Consumer,Credit Card,Express,628.41,4.06,8.42
+cst371,Consumer,Debit Card,Standard,650.57,9.51,30.64
+cst364,Small Business,Debit Card,Same Day,1773.55,6.14,16.47
+cst1035,Consumer,PayPal,Standard,62.89,4.37,18.27
+cst172,Consumer,PayPal,Express,505.15,6.21,6.79
+cst13,Consumer,PayPal,Express,1728.36,4.83,27.95
+cst350,Small Business,PayPal,Same Day,37.51,1.93,33.63
+cst1097,Small Business,Debit Card,Standard,962.71,1.37,44.23
+cst472,Corporate,Credit Card,Standard,180.74,8.14,11.13
+cst40,Small Business,Credit Card,Express,888.55,7.21,35.7
+cst845,Corporate,Debit Card,Standard,378.55,9.54,33.8
+cst1114,Corporate,Debit Card,Express,1565.02,8.51,35.74
+cst606,Consumer,Credit Card,Express,429.37,4.69,40.66
+cst275,Corporate,Credit Card,Same Day,151.91,5.87,9.69
+cst1055,Consumer,PayPal,Same Day,429.3,7.2,23.16
+cst677,Corporate,Credit Card,Standard,1052.14,1.04,35.7
+cst841,Consumer,Debit Card,Standard,1744.47,9.11,33.0
+cst81,Corporate,PayPal,Standard,1323.42,2.89,48.23
+cst965,Small Business,Credit Card,Express,754.04,3.56,26.27
+cst500,Corporate,Debit Card,Same Day,1694.99,6.39,44.02
+cst922,Small Business,Credit Card,Standard,282.31,8.11,26.41
+cst1083,Corporate,Credit Card,Standard,1486.1,8.68,23.79
+cst428,Corporate,PayPal,Same Day,1143.79,9.07,36.12
+cst318,Corporate,Debit Card,Express,1584.74,2.02,35.41
+cst948,Corporate,Credit Card,Express,1642.23,3.44,7.43
+cst721,Consumer,PayPal,Express,1129.69,4.36,11.8
+cst506,Consumer,Debit Card,Standard,1921.47,3.71,22.2
+cst582,Small Business,Debit Card,Standard,1650.09,6.97,20.67
+cst915,Consumer,PayPal,Express,76.0,8.62,44.19
+cst744,Consumer,PayPal,Standard,1864.27,5.79,16.91
+cst501,Corporate,Debit Card,Standard,1958.66,9.38,35.14
+cst102,Corporate,PayPal,Standard,414.02,2.03,15.72
+cst923,Consumer,Debit Card,Express,788.36,6.97,26.08
+cst278,Corporate,Credit Card,Same Day,348.75,6.12,21.06
+cst813,Corporate,Credit Card,Same Day,892.87,7.92,7.69
+cst351,Small Business,Debit Card,Express,1605.1,6.23,11.55
+cst595,Small Business,Debit Card,Same Day,1064.98,2.38,36.92
+cst435,Corporate,Credit Card,Express,1624.18,7.15,30.97
+cst411,Corporate,Debit Card,Standard,450.62,4.02,47.76
+cst176,Consumer,Debit Card,Standard,228.77,6.55,2.87
+cst153,Consumer,Credit Card,Same Day,1090.32,6.49,4.48
+cst962,Consumer,Credit Card,Same Day,1052.27,5.91,44.14
+cst775,Small Business,Credit Card,Standard,480.24,1.98,35.61
+cst164,Consumer,Debit Card,Same Day,1547.18,6.05,40.4
+cst88,Corporate,PayPal,Express,1711.13,9.45,20.76
+cst213,Consumer,Debit Card,Express,1472.42,3.52,46.09
+cst1187,Consumer,Credit Card,Standard,1209.31,6.4,23.37
+cst1156,Consumer,PayPal,Standard,1621.32,5.55,37.47
+cst394,Consumer,Credit Card,Same Day,65.44,7.79,42.79
+cst375,Small Business,PayPal,Same Day,547.05,2.23,17.49
+cst151,Consumer,Debit Card,Express,1195.02,2.99,16.82
+cst565,Small Business,PayPal,Standard,181.21,9.86,3.92
+cst246,Corporate,Debit Card,Standard,1142.38,8.76,41.93
+cst503,Small Business,Credit Card,Standard,632.05,5.75,2.18
+cst586,Small Business,Debit Card,Same Day,902.13,8.85,6.32
+cst758,Small Business,PayPal,Express,116.66,5.81,21.13
+cst1199,Corporate,PayPal,Standard,1696.55,5.63,49.9
+cst173,Consumer,PayPal,Standard,755.64,5.63,21.7
+cst707,Small Business,PayPal,Standard,1913.1,9.56,22.33
+cst427,Corporate,Debit Card,Express,414.52,9.82,32.58
+cst832,Consumer,Debit Card,Standard,119.09,6.38,6.75
+cst695,Small Business,Debit Card,Same Day,1177.2,2.8,21.51
+cst1179,Small Business,PayPal,Express,1326.0,4.15,3.14
+cst186,Consumer,PayPal,Standard,735.7,7.27,24.24
+cst137,Corporate,Credit Card,Same Day,353.74,6.06,47.43
+cst522,Corporate,Debit Card,Standard,745.9,8.43,33.87
+cst814,Corporate,Debit Card,Standard,515.71,4.93,24.78
+cst664,Corporate,PayPal,Standard,555.15,3.54,4.15
+cst508,Consumer,Credit Card,Standard,1935.57,4.72,14.91
+cst854,Corporate,Credit Card,Standard,1774.93,4.81,1.38
+cst392,Corporate,PayPal,Standard,1559.95,4.84,1.74
+cst227,Corporate,Credit Card,Same Day,577.56,1.16,3.3
+cst19,Consumer,PayPal,Express,394.22,9.51,43.56
+cst751,Corporate,Debit Card,Standard,1272.49,9.98,38.52
+cst118,Small Business,Credit Card,Express,1138.46,6.36,10.09
+cst1058,Small Business,PayPal,Express,70.95,2.9,16.54
+cst514,Small Business,Debit Card,Standard,1352.85,8.35,26.53
+cst255,Corporate,PayPal,Same Day,1274.77,1.27,6.34
+cst862,Consumer,PayPal,Same Day,210.87,6.81,21.32
+cst619,Corporate,PayPal,Same Day,680.06,7.38,32.6
+cst469,Corporate,Debit Card,Express,815.76,4.7,36.36
+cst370,Corporate,PayPal,Express,103.83,2.44,39.64
+cst1121,Corporate,Debit Card,Express,1459.65,1.89,39.16
+cst969,Consumer,PayPal,Same Day,1706.12,7.04,10.96
+cst1037,Consumer,Debit Card,Express,1882.7,1.61,11.28
+cst1201,Corporate,Debit Card,Same Day,1221.33,1.95,7.6
+cst1347,Corporate,Credit Card,Standard,1208.51,6.61,39.65
+cst1412,Consumer,PayPal,Standard,748.94,9.79,21.66
+cst1347,Small Business,Debit Card,Same Day,243.77,2.41,24.36
+cst1376,Small Business,PayPal,Same Day,998.81,3.24,12.39
+cst1421,Consumer,Debit Card,Standard,398.12,5.12,3.98
+cst1129,Corporate,Credit Card,Express,994.02,5.46,27.39
+cst1409,Consumer,Credit Card,Standard,281.13,5.67,37.29
+cst1094,Corporate,Debit Card,Standard,1208.65,5.1,22.95
+cst1070,Small Business,Credit Card,Standard,1481.49,4.12,25.34
+cst1225,Corporate,Debit Card,Express,515.95,5.38,48.65
+cst1061,Consumer,PayPal,Express,1035.55,9.96,36.77
+cst1211,Consumer,Debit Card,Standard,698.26,7.43,12.25
+cst1304,Corporate,PayPal,Express,1305.83,5.97,26.65
+cst1277,Corporate,Credit Card,Express,1104.35,4.61,39.04
+cst1487,Consumer,Debit Card,Standard,284.71,9.65,13.78
+cst1054,Consumer,Credit Card,Same Day,1848.79,8.68,47.56
+cst1300,Small Business,Debit Card,Same Day,1081.23,9.03,27.44
+cst1439,Small Business,Debit Card,Express,1544.76,3.16,21.13
+cst1248,Corporate,Credit Card,Same Day,424.43,9.68,1.63
+cst1029,Corporate,Credit Card,Same Day,1169.77,1.69,48.9
+cst1411,Small Business,Debit Card,Same Day,1441.77,1.4,23.24
+cst1197,Small Business,Credit Card,Express,892.93,8.11,47.84
+cst1242,Small Business,Credit Card,Express,1213.45,6.37,17.16
+cst1169,Corporate,Debit Card,Express,1833.79,4.98,14.45
+cst1262,Consumer,Debit Card,Same Day,907.42,6.15,23.23
+cst1309,Corporate,Debit Card,Express,490.0,6.06,27.02
+cst1067,Consumer,PayPal,Express,426.27,3.04,23.26
+cst1249,Corporate,PayPal,Same Day,338.47,6.78,16.69
+cst1017,Corporate,Credit Card,Express,493.69,6.26,6.84
+cst1282,Corporate,PayPal,Express,41.6,3.32,10.61
+cst1157,Consumer,Debit Card,Standard,905.2,3.99,32.94
+cst1055,Corporate,Credit Card,Same Day,499.62,9.52,22.55
+cst1341,Consumer,Debit Card,Express,1106.52,7.13,37.88
+cst1063,Consumer,PayPal,Express,243.2,7.74,34.94
+cst1114,Corporate,Credit Card,Standard,1450.07,6.65,22.71
+cst1471,Corporate,Credit Card,Same Day,79.97,5.54,49.68
+cst1303,Consumer,PayPal,Standard,420.6,6.35,13.74
+cst1022,Small Business,Debit Card,Same Day,1526.15,5.81,9.51
+cst1199,Consumer,Credit Card,Same Day,449.67,7.6,18.06
+cst1385,Corporate,Credit Card,Express,1529.37,8.2,44.92
+cst1160,Corporate,Credit Card,Express,911.91,5.34,30.26
+cst1303,Small Business,Debit Card,Express,1271.2,7.47,28.36
+cst1404,Corporate,Credit Card,Express,1975.55,5.43,40.34
+cst1446,Consumer,PayPal,Express,385.97,3.52,12.25
+cst1021,Consumer,Debit Card,Same Day,1308.77,3.93,2.28
+cst1174,Consumer,Debit Card,Standard,1304.53,3.86,22.59
+cst1293,Small Business,Credit Card,Standard,1387.14,7.79,43.85
+cst1487,Small Business,PayPal,Express,1510.66,6.26,46.42
+cst1363,Corporate,Debit Card,Express,1294.12,6.05,33.09
+cst1298,Small Business,Credit Card,Express,1675.05,3.44,38.97
+cst1257,Consumer,PayPal,Express,1210.45,6.75,49.25
+cst1377,Consumer,Credit Card,Same Day,1541.09,2.92,20.79
+cst1195,Corporate,PayPal,Standard,154.92,9.1,20.3
+cst1387,Consumer,Debit Card,Same Day,1517.61,7.63,21.69
+cst1488,Corporate,Credit Card,Standard,793.36,4.03,25.05
+cst1445,Small Business,Debit Card,Express,196.96,8.1,14.23
+cst1073,Consumer,Credit Card,Standard,280.43,6.67,37.35
+cst1177,Consumer,Debit Card,Standard,287.12,6.17,20.86
+cst1133,Small Business,PayPal,Express,1260.31,7.04,30.95
+cst1063,Consumer,PayPal,Same Day,1850.63,4.96,17.64
+cst1145,Corporate,Debit Card,Standard,1871.67,6.08,33.74
+cst1239,Small Business,PayPal,Standard,1631.81,8.4,47.27
+cst1495,Corporate,PayPal,Standard,1552.87,3.17,32.74
+cst1009,Corporate,Debit Card,Same Day,1018.9,5.7,22.83
+cst1027,Consumer,Credit Card,Same Day,323.94,1.96,2.5
+cst1130,Small Business,Credit Card,Standard,227.19,5.07,46.2
+cst1043,Consumer,Credit Card,Express,1071.15,4.56,36.2
+cst1420,Small Business,Credit Card,Same Day,897.19,9.43,40.39
+cst1095,Corporate,Debit Card,Same Day,1052.84,2.5,10.76
+cst1273,Small Business,Credit Card,Same Day,46.37,3.75,3.77
+cst1254,Consumer,PayPal,Standard,1222.01,1.62,49.72
+cst1462,Consumer,Debit Card,Same Day,496.03,7.08,28.84
+cst1427,Consumer,Credit Card,Standard,110.66,3.96,23.23
+cst1080,Consumer,Debit Card,Same Day,1803.36,6.41,40.21
+cst1249,Corporate,Debit Card,Same Day,546.6,6.16,35.23
+cst1398,Small Business,Debit Card,Express,1437.07,5.79,4.69
+cst1214,Small Business,PayPal,Same Day,1566.31,9.38,15.21
+cst1057,Corporate,PayPal,Express,1269.89,6.21,7.71
+cst1286,Small Business,Debit Card,Express,686.47,5.57,20.35
+cst1306,Consumer,Debit Card,Standard,1934.78,1.73,25.7
+cst1260,Small Business,PayPal,Standard,543.74,1.95,24.4
+cst1453,Consumer,Debit Card,Express,1314.54,8.89,37.32
+cst1004,Consumer,PayPal,Express,1363.48,6.68,20.84
+cst1002,Small Business,Debit Card,Express,1611.28,6.52,2.65
+cst1059,Corporate,Debit Card,Same Day,357.9,2.56,22.07
+cst1107,Consumer,Credit Card,Same Day,1046.37,4.29,16.45
+cst1019,Consumer,Credit Card,Express,1000.58,2.91,13.13
+cst1176,Consumer,Credit Card,Standard,124.9,4.8,18.71
+cst1273,Corporate,Debit Card,Same Day,828.66,1.27,8.91
+cst1145,Small Business,PayPal,Same Day,708.69,4.42,44.78
+cst1187,Corporate,Credit Card,Same Day,543.52,9.83,4.92
+cst1359,Small Business,PayPal,Same Day,441.37,4.35,12.26
+cst1134,Consumer,PayPal,Same Day,289.41,2.33,29.16
+cst1444,Small Business,Credit Card,Standard,1107.99,8.67,30.54
+cst1093,Small Business,Debit Card,Express,122.15,1.96,18.83
+cst1328,Corporate,Debit Card,Express,338.58,3.08,9.88
+cst1306,Consumer,Credit Card,Standard,243.98,7.04,28.9
+cst1281,Corporate,Credit Card,Express,1691.07,9.92,42.16
+cst1478,Corporate,Debit Card,Standard,90.22,1.54,42.15
+cst1158,Small Business,PayPal,Standard,724.51,3.2,9.57
+cst1304,Small Business,Debit Card,Express,1582.75,8.74,31.99
+cst1477,Small Business,Debit Card,Standard,1977.66,3.19,11.91
+cst1211,Corporate,Credit Card,Same Day,615.21,2.52,15.2
+cst1132,Small Business,PayPal,Express,1575.08,8.1,5.99
+cst1251,Corporate,Credit Card,Express,1771.55,8.87,19.75
+cst1122,Consumer,PayPal,Express,1388.17,3.25,31.02
+cst1359,Consumer,Credit Card,Same Day,1672.29,5.65,18.08
+cst1170,Corporate,Credit Card,Same Day,782.2,3.73,5.77
+cst1349,Small Business,Credit Card,Express,1182.84,7.65,14.72
+cst1037,Corporate,PayPal,Same Day,1993.39,9.64,3.01
+cst1156,Corporate,Debit Card,Same Day,1956.67,9.96,40.57
+cst1009,Small Business,PayPal,Standard,984.91,1.25,26.78
+cst1421,Consumer,PayPal,Standard,1016.5,7.72,42.04
+cst1306,Corporate,Credit Card,Same Day,20.71,8.07,22.26
+cst1354,Corporate,PayPal,Same Day,1337.56,9.83,2.06
+cst1396,Small Business,PayPal,Same Day,445.06,3.14,48.29
+cst1026,Small Business,Debit Card,Express,278.31,5.34,34.19
+cst1484,Corporate,Debit Card,Express,1344.26,7.46,29.76
+cst1492,Corporate,Credit Card,Standard,1651.44,1.26,43.17
+cst1377,Small Business,Debit Card,Express,231.96,5.21,8.2
+cst1380,Consumer,Credit Card,Same Day,1940.36,2.17,42.79
+cst1483,Small Business,Credit Card,Same Day,1650.34,2.15,15.78
+cst1350,Consumer,PayPal,Standard,1325.13,6.14,9.64
+cst1406,Small Business,Credit Card,Same Day,889.04,3.3,1.07
+cst1479,Corporate,Credit Card,Standard,910.67,3.15,39.94
+cst1209,Corporate,PayPal,Express,870.69,5.68,29.09
+cst1062,Consumer,Debit Card,Standard,1483.81,6.21,39.83
+cst1089,Consumer,Credit Card,Standard,1504.37,9.36,17.39
+cst1409,Consumer,Debit Card,Standard,1893.21,1.76,43.85
+cst1224,Corporate,Credit Card,Same Day,361.44,8.62,12.51
+cst1116,Corporate,PayPal,Same Day,151.74,9.98,36.51
+cst1227,Corporate,Credit Card,Same Day,1418.61,2.21,16.21
+cst1033,Corporate,PayPal,Standard,1027.26,1.01,25.86
+cst1495,Small Business,Debit Card,Express,227.42,2.84,1.18
+cst1123,Consumer,Debit Card,Same Day,942.34,1.34,9.2
+cst1365,Small Business,PayPal,Standard,694.91,2.13,43.68
+cst1070,Corporate,PayPal,Express,1589.46,2.38,26.71
+cst1118,Corporate,Credit Card,Same Day,831.12,1.15,45.57
+cst1004,Corporate,Debit Card,Same Day,793.94,5.77,14.9
+cst1350,Small Business,PayPal,Standard,1999.18,5.79,31.57
+cst1429,Corporate,PayPal,Express,1438.07,8.6,17.87
+cst1409,Small Business,Debit Card,Standard,321.52,1.25,9.38
+cst1309,Small Business,Credit Card,Same Day,398.12,3.01,42.53
+cst1363,Consumer,Credit Card,Express,240.24,6.61,48.84
+cst1115,Corporate,Debit Card,Express,1034.72,8.49,13.38
+cst1295,Corporate,Credit Card,Same Day,1139.38,6.09,41.49
+cst1294,Consumer,Debit Card,Express,131.36,3.06,36.97
+cst1463,Corporate,Debit Card,Same Day,999.32,7.88,15.79
+cst1400,Corporate,Debit Card,Standard,1689.0,4.94,17.54
+cst1213,Small Business,Credit Card,Standard,1456.51,4.36,18.97
+cst1149,Small Business,Debit Card,Same Day,1064.29,9.14,47.24
+cst1066,Small Business,PayPal,Express,1541.4,8.84,28.74
+cst1113,Small Business,PayPal,Express,1294.97,3.66,37.66
+cst1010,Corporate,Debit Card,Standard,1074.96,4.8,39.65
+cst1074,Small Business,Debit Card,Standard,1440.92,6.45,8.02
+cst1419,Small Business,Debit Card,Same Day,366.92,9.84,36.22
+cst1382,Consumer,Debit Card,Standard,1128.25,7.34,32.87
+cst1449,Small Business,Debit Card,Express,716.96,6.93,24.64
+cst1374,Consumer,PayPal,Same Day,1382.0,8.14,18.71
+cst1198,Small Business,Debit Card,Standard,1936.03,1.5,17.19
+cst1357,Corporate,PayPal,Express,1574.88,5.13,33.29
+cst1439,Corporate,Credit Card,Express,445.84,9.98,4.42
+cst1064,Small Business,PayPal,Same Day,1065.29,9.46,29.4
+cst1307,Consumer,Credit Card,Same Day,1266.19,9.84,36.84
+cst1491,Small Business,Debit Card,Express,854.36,4.64,27.55
+cst1127,Small Business,PayPal,Same Day,167.55,2.15,4.45
+cst1494,Small Business,Credit Card,Same Day,682.83,3.48,17.22
+cst1386,Corporate,Credit Card,Express,893.45,7.68,36.22
+cst1017,Consumer,Debit Card,Express,518.41,3.37,35.14
+cst1427,Consumer,Debit Card,Express,538.93,4.42,40.22
+cst1410,Corporate,PayPal,Standard,1192.84,8.01,39.84
+cst1120,Small Business,Debit Card,Standard,426.47,8.78,42.68
+cst1389,Small Business,PayPal,Standard,1478.48,7.28,35.91
+cst1012,Small Business,Debit Card,Same Day,1219.53,9.98,48.2
+cst1156,Corporate,Credit Card,Express,1773.59,7.25,6.46
+cst1000,Corporate,Debit Card,Standard,283.06,5.82,20.82
+cst1263,Consumer,PayPal,Same Day,1106.92,1.45,4.36
+cst1455,Consumer,PayPal,Standard,1991.32,1.7,43.1
+cst1367,Consumer,PayPal,Same Day,1546.63,1.43,34.51
+cst1189,Corporate,Debit Card,Same Day,59.48,7.82,8.24
+cst1415,Small Business,PayPal,Same Day,1565.91,2.29,41.11
+cst1191,Corporate,Credit Card,Standard,561.49,6.07,8.23
+cst1016,Small Business,PayPal,Standard,307.06,9.94,44.74
+cst1411,Consumer,Credit Card,Express,1240.53,2.17,48.8
+cst1079,Consumer,PayPal,Same Day,558.47,8.07,19.42
+cst1146,Small Business,Credit Card,Express,1845.49,3.83,21.19
+cst1256,Consumer,PayPal,Same Day,912.02,7.96,12.43
+cst1332,Small Business,PayPal,Same Day,1181.53,4.8,38.22
+cst1168,Corporate,PayPal,Express,1651.64,2.31,18.18
+cst1471,Consumer,Credit Card,Express,1361.97,7.54,6.99
+cst1076,Consumer,Debit Card,Express,1432.97,8.1,33.54
+cst1063,Corporate,Debit Card,Same Day,417.55,2.53,10.97
+cst1278,Small Business,Debit Card,Standard,1860.66,3.25,48.53
+cst1082,Corporate,Credit Card,Express,1813.35,6.99,27.18
+cst1338,Small Business,Credit Card,Standard,937.6,7.14,20.34
+cst1485,Consumer,PayPal,Standard,1438.94,2.44,6.69
+cst1158,Corporate,PayPal,Same Day,954.11,1.1,13.4
+cst1095,Corporate,Debit Card,Express,1370.75,3.42,33.11
+cst1059,Corporate,Debit Card,Standard,1903.31,1.85,10.32
+cst1185,Corporate,Credit Card,Standard,1627.13,9.42,37.96
+cst1078,Consumer,PayPal,Same Day,1994.15,8.42,30.95
+cst1134,Small Business,PayPal,Standard,1181.83,9.42,37.18
+cst1477,Consumer,Debit Card,Standard,1804.44,5.11,10.01
+cst1405,Small Business,PayPal,Express,1078.25,6.32,15.78
+cst1137,Small Business,Credit Card,Same Day,1211.33,7.3,1.42
+cst1353,Consumer,Credit Card,Standard,1797.05,4.27,33.05
+cst1368,Corporate,PayPal,Express,528.16,4.84,39.31
+cst1155,Corporate,PayPal,Same Day,773.61,4.99,41.32
+cst1114,Corporate,Credit Card,Standard,1675.0,7.3,18.3
+cst1320,Consumer,PayPal,Same Day,1344.31,3.72,49.91
+cst1306,Small Business,Debit Card,Same Day,537.37,8.21,34.93
+cst1092,Small Business,Credit Card,Same Day,1137.43,6.64,32.7
+cst1492,Corporate,PayPal,Standard,1638.62,6.35,13.57
+cst1301,Consumer,Credit Card,Express,1732.54,1.31,29.93
+cst1475,Corporate,PayPal,Express,1847.12,1.9,12.04
+cst1002,Small Business,PayPal,Express,1087.08,5.91,32.53
+cst1468,Small Business,PayPal,Same Day,1878.64,5.15,15.86
+cst1195,Small Business,Credit Card,Express,424.4,5.26,49.97
+cst1040,Small Business,Credit Card,Same Day,811.14,5.28,16.5
+cst1331,Corporate,Credit Card,Same Day,375.35,6.03,47.15
+cst1053,Corporate,PayPal,Express,318.78,7.09,14.83
+cst1447,Consumer,PayPal,Express,1207.6,9.41,17.63
+cst1072,Consumer,Debit Card,Standard,942.05,3.28,43.81
+cst1092,Small Business,Credit Card,Standard,309.88,3.83,44.36
+cst1360,Corporate,PayPal,Standard,1936.29,6.42,45.23
+cst1192,Corporate,Credit Card,Standard,1693.64,6.88,43.34
+cst1178,Consumer,Credit Card,Express,528.53,2.77,9.57
+cst1315,Small Business,Credit Card,Express,785.05,7.06,16.54
+cst1105,Consumer,PayPal,Same Day,186.17,4.81,28.64
+cst1454,Small Business,Debit Card,Standard,1357.9,8.47,7.99
+cst1141,Consumer,PayPal,Express,527.54,2.46,47.05
+cst1164,Small Business,Debit Card,Express,655.73,1.51,32.0
+cst1277,Small Business,Debit Card,Same Day,767.69,7.78,29.12
+cst1387,Small Business,Credit Card,Standard,647.92,1.17,25.95
+cst1363,Consumer,PayPal,Same Day,1531.57,6.32,22.44
+cst1022,Small Business,Credit Card,Same Day,662.44,8.1,43.5
+cst1317,Corporate,Credit Card,Express,1647.0,1.97,40.55
+cst1128,Small Business,Debit Card,Same Day,1784.52,2.92,14.56
+cst1291,Small Business,Debit Card,Standard,1998.39,4.79,2.7
+cst1264,Small Business,Credit Card,Same Day,1703.86,5.13,36.71
+cst1321,Corporate,Credit Card,Standard,44.83,4.0,36.31
+cst1076,Consumer,Credit Card,Standard,133.03,3.25,2.13
+cst1374,Consumer,Debit Card,Standard,1890.96,4.69,33.07
+cst1181,Consumer,Credit Card,Standard,841.57,2.31,3.04
+cst1165,Small Business,Credit Card,Standard,1151.19,9.18,20.91
+cst1215,Small Business,PayPal,Same Day,1563.81,5.78,7.93
+cst1021,Corporate,Credit Card,Same Day,419.99,8.73,44.39
+cst1026,Corporate,PayPal,Same Day,1434.08,6.96,33.62
+cst1493,Consumer,Credit Card,Express,1317.4,2.56,19.59
+cst1369,Corporate,Debit Card,Standard,800.25,2.48,32.38
+cst1096,Consumer,Credit Card,Standard,1529.28,9.29,24.07
+cst1473,Small Business,Credit Card,Standard,148.36,3.57,44.65
+cst1335,Small Business,Credit Card,Express,1710.26,7.58,39.41
+cst1454,Small Business,PayPal,Express,1589.92,7.27,5.7
+cst1189,Small Business,Debit Card,Express,408.39,1.42,37.54
+cst1067,Corporate,Credit Card,Same Day,902.61,6.81,41.29
+cst1327,Corporate,Credit Card,Standard,1986.0,1.77,32.83
+cst1428,Small Business,Debit Card,Standard,98.46,8.87,39.1
+cst1072,Small Business,Debit Card,Standard,60.25,4.53,45.36
+cst1335,Corporate,Debit Card,Standard,868.93,8.73,40.8
+cst1092,Small Business,Debit Card,Standard,1240.58,5.76,7.87
+cst1226,Consumer,Debit Card,Express,169.31,7.37,35.9
+cst1001,Small Business,PayPal,Same Day,443.72,9.22,3.78
+cst1205,Consumer,Credit Card,Express,1151.4,3.37,31.93
+cst1153,Consumer,Debit Card,Standard,1379.42,4.63,2.91
+cst1104,Corporate,PayPal,Express,398.14,3.34,32.82
+cst1214,Consumer,Credit Card,Standard,1798.42,5.27,40.86
+cst1413,Corporate,Credit Card,Standard,1203.54,4.66,35.6
+cst1465,Consumer,PayPal,Same Day,1922.32,9.84,3.8
+cst1087,Small Business,Debit Card,Standard,1157.73,5.92,20.4
+cst1011,Small Business,Debit Card,Same Day,1071.18,9.79,6.7
+cst1046,Corporate,PayPal,Standard,1736.84,3.51,9.95
+cst1125,Small Business,Debit Card,Express,763.74,4.9,28.17
+cst1006,Small Business,Debit Card,Standard,1043.35,2.46,37.19
+cst1449,Consumer,Credit Card,Same Day,865.66,5.8,20.39
+cst1164,Corporate,Debit Card,Same Day,595.28,6.87,13.43
+cst1048,Corporate,PayPal,Standard,1512.46,9.49,3.83
+cst1197,Corporate,Debit Card,Standard,247.26,2.3,20.34
+cst1470,Consumer,PayPal,Standard,1596.03,5.8,2.18
+cst1304,Consumer,Debit Card,Same Day,1495.73,3.15,4.52
+cst1061,Corporate,Debit Card,Standard,1232.97,3.91,45.87
+cst1386,Consumer,Credit Card,Express,832.6,3.32,42.8
+cst1443,Small Business,Debit Card,Standard,1258.67,8.16,48.18
+cst1452,Corporate,Credit Card,Standard,1728.59,6.19,18.68
